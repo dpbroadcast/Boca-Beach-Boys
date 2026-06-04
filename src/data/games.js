@@ -45,7 +45,7 @@ export const games = [
     address: "Harry Gribbon Memorial Park, Dania Beach, FL",
     broadcasterRole: "Color",
     offBroadcaster: null,
-    status: "upcoming",
+    status: "postponed",
     result: null,
     youtubeStreamUrl: null,
     youtubeReplayUrl: null,

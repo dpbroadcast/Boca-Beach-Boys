@@ -115,10 +115,27 @@ Then open `http://localhost:5174` in your browser.
 
 ---
 
+## ⚡ IMPORTANT — Publishing Updates to the Live Site
+
+After making ANY changes, run these 3 commands in Terminal to push live:
+
+```bash
+cd "/Users/dylanpaul/Downloads/Boca Beach Boys/Website & Tech/boca-beach-boys"
+git add -A
+git commit -m "describe what you changed"
+git push
+```
+
+Netlify detects the push and rebuilds the live site automatically in ~60 seconds.
+Live site: https://dpbroadcast.netlify.app
+
+---
+
 ## Social Links (for reference)
 
 - YouTube (primary): https://youtube.com/@dp.broadcast
 - TikTok: https://www.tiktok.com/@dp__broadast
 - Instagram (Dylan): https://www.instagram.com/dp.broadcast
 - Instagram (Beach Boys): https://www.instagram.com/bocabeachboysbsb/
+- Twitter / X (Beach Boys — live game updates): https://x.com/beachboysbsb
 - Beach Boys official site: https://www.bocabeachboys.com/
