@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import { getYouTubeId } from '../data/games'
 import { articles } from '../data/articles'
+import { breakdowns } from '../data/breakdowns'
 import { getTeamLogo } from '../data/teamLogos'
 
 export default function GameModal({ game, onClose }) {
@@ -18,6 +19,7 @@ export default function GameModal({ game, onClose }) {
 
   const ytId = getYouTubeId(game.youtubeReplayUrl) || getYouTubeId(game.youtubeStreamUrl)
   const article = game.articleId ? articles.find((a) => a.id === game.articleId) : null
+  const breakdown = game.breakdownId ? breakdowns.find((b) => b.id === game.breakdownId) : null
   const isCompleted = game.status === 'completed'
   const isUpcoming = game.status === 'upcoming'
   const isLive = game.status === 'live'
@@ -129,14 +131,27 @@ export default function GameModal({ game, onClose }) {
 
         {/* Article link */}
         {article && (
-          <div className="p-6">
+          <div className={`p-6 ${breakdown ? 'border-b border-white/5' : ''}`}>
             <h3 className="font-bebas text-lg tracking-widest text-[#00C4E0] mb-2">Game Write-up</h3>
             <p className="text-gray-400 text-sm mb-3">{article.excerpt}</p>
+            <a href={`/articles/${article.slug}`} className="btn-outline text-xs">
+              Read Full Article →
+            </a>
+          </div>
+        )}
+
+        {/* Beachside Breakdown link */}
+        {breakdown && (
+          <div className="p-6">
+            <h3 className="font-bebas text-lg tracking-widest text-[#00C4E0] mb-2">Beachside Breakdown</h3>
+            <p className="text-gray-400 text-sm mb-3">{breakdown.description}</p>
             <a
-              href={`/articles/${article.slug}`}
+              href={breakdown.instagramUrl || breakdown.youtubeUrl}
+              target="_blank"
+              rel="noopener noreferrer"
               className="btn-outline text-xs"
             >
-              Read Full Article →
+              Watch on Instagram →
             </a>
           </div>
         )}

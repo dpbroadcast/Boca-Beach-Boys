@@ -67,6 +67,7 @@ export const games = [
     youtubeStreamUrl: null,
     youtubeReplayUrl: null,
     articleId: "june-5-iguanas-recap",
+    breakdownId: "bsb-004",
   },
   {
     id: "game-004",

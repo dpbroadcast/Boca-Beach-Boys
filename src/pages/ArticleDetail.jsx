@@ -1,6 +1,7 @@
 import { useParams, Link } from 'react-router-dom'
 import { articles } from '../data/articles'
 import { games, getYouTubeId } from '../data/games'
+import { breakdowns } from '../data/breakdowns'
 
 export default function ArticleDetail() {
   const { slug } = useParams()
@@ -17,6 +18,7 @@ export default function ArticleDetail() {
   }
 
   const game = article.gameId ? games.find((g) => g.id === article.gameId) : null
+  const breakdown = breakdowns.find((b) => b.articleId === article.id) ?? null
   const ytId = game ? getYouTubeId(game.youtubeReplayUrl) ?? getYouTubeId(game.youtubeStreamUrl) : null
 
   const [y, m, d] = article.date.split('-').map(Number)
@@ -90,6 +92,23 @@ export default function ArticleDetail() {
 
         {/* Box Score */}
         {article.boxScore && <BoxScore boxScore={article.boxScore} />}
+
+        {/* Beachside Breakdown */}
+        {breakdown && (
+          <div className="mt-10 bg-[#0B1424] border border-white/5 rounded-sm px-6 py-5">
+            <div className="text-[10px] font-bold uppercase tracking-widest text-[#00C4E0] mb-1">Beachside Breakdown</div>
+            <div className="font-bebas text-xl tracking-widest text-white mb-1">{breakdown.title}</div>
+            <p className="text-gray-400 text-sm mb-4">{breakdown.description}</p>
+            <a
+              href={breakdown.instagramUrl || breakdown.youtubeUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-outline text-xs"
+            >
+              Watch on Instagram →
+            </a>
+          </div>
+        )}
 
         {/* Replay embed */}
         {ytId && (

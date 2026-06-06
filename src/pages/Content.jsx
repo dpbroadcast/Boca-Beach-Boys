@@ -1,38 +1,4 @@
-// ─────────────────────────────────────────────────────────────
-// CONTENT PAGE — BEACHSIDE BREAKDOWN EPISODES
-//
-// Add episodes to the array below. Each episode:
-//   id           — unique string, e.g. "bsb-001"
-//   title        — episode title
-//   date         — "YYYY-MM-DD"
-//   description  — short blurb (1-2 sentences)
-//   instagramUrl — link to the Instagram post/reel (preferred)
-//   youtubeUrl   — YouTube link if also posted there (optional)
-//   thumbnailUrl — direct image URL for thumbnail (optional)
-//
-// Priority: instagramUrl → youtubeUrl → Beach Boys Instagram fallback
-// ─────────────────────────────────────────────────────────────
-
-const breakdowns = [
-  {
-    id: "bsb-001",
-    title: "Pre-season Sit-down with Coach Trastoy",
-    date: "2026-06-02",
-    description: "Dylan sits down with Beach Boys head coach for a pre-season conversation ahead of the 2026 SFCBL season.",
-    instagramUrl: "https://www.instagram.com/reel/DZH1N_fu26g/",
-    youtubeUrl: null,
-    thumbnailUrl: "/assets/bsb-001-thumb.jpg",
-  },
-  {
-    id: "bsb-002",
-    title: "Pre-season Interview with Josh Cope, Aaron Orozco & Andrew Elkins",
-    date: "2026-06-03",
-    description: "Dylan catches up with three Beach Boys players ahead of opening day.",
-    instagramUrl: "https://www.instagram.com/reel/DZISHImu_ai/",
-    youtubeUrl: null,
-    thumbnailUrl: "/assets/bsb-002-thumb.jpg",
-  },
-]
+import { breakdowns } from '../data/breakdowns'
 
 function getYouTubeId(url) {
   if (!url) return null
