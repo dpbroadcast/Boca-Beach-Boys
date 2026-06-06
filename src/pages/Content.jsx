@@ -95,8 +95,8 @@ export default function Content() {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
             <ContentTypeCard
               href="https://www.youtube.com/@DP.Broadcast"
-              title="Live Broadcasts"
-              desc="Every Beach Boys game — live play-by-play on YouTube"
+              title="Game Replays"
+              desc="Full game replays and highlights from every Beach Boys game on YouTube"
               icon={<MicIcon className="w-6 h-6" />}
             />
             <ContentTypeCard

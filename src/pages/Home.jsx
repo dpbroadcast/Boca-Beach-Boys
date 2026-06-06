@@ -116,8 +116,8 @@ export default function Home() {
 
             {/* Description */}
             <p className="font-outfit text-base text-gray-400 leading-relaxed max-w-md mb-8 stagger-4">
-              Every pitch. Every play. Every game — broadcast live and free on YouTube.
-              Follow the 2026 Beach Boys season with Dylan Paul calling all the action.
+              Full game replays, highlights, and play-by-play coverage of every Beach Boys game.
+              Follow the 2026 SFCBL season with Dylan Paul calling all the action.
             </p>
 
             {/* CTAs */}
@@ -129,7 +129,7 @@ export default function Home() {
                 className="btn-gold text-sm"
               >
                 <YouTubeIcon className="w-4 h-4" />
-                Watch Live on YouTube
+                Watch on YouTube
               </a>
               <Link to="/schedule" className="btn-outline-blue text-sm">
                 2026 Schedule →
@@ -173,12 +173,12 @@ export default function Home() {
                   </span>
                 </div>
                 <h2 className="font-bebas text-5xl md:text-6xl xl:text-7xl tracking-widest leading-tight text-white mb-4">
-                  WATCH EVERY GAME<br />
-                  <span className="shimmer-text">LIVE ON YOUTUBE</span>
+                  FULL GAME REPLAYS<br />
+                  <span className="shimmer-text">ON YOUTUBE</span>
                 </h2>
                 <p className="font-outfit text-base text-gray-400 leading-relaxed max-w-lg">
-                  Every Boca Beach Boys game — broadcast live and free. Subscribe so you never miss a pitch.
-                  Dylan Paul on play-by-play for the entire 2026 SFCBL season.
+                  Full game replays, highlights, and play-by-play coverage of every Boca Beach Boys game.
+                  Dylan Paul on the call for the entire 2026 SFCBL season.
                 </p>
               </div>
 
@@ -197,14 +197,14 @@ export default function Home() {
                   className="btn-gold px-8 py-4 text-sm"
                 >
                   <YouTubeIcon className="w-5 h-5" />
-                  Subscribe Free →
+                  Subscribe →
                 </a>
                 <div className="flex items-center gap-2 font-outfit text-xs text-gray-600 uppercase tracking-wider">
                   <span>SFCBL 2026</span>
                   <span className="text-brand-gold/30">·</span>
-                  <span>Live + Replay</span>
+                  <span>Replays + Highlights</span>
                   <span className="text-brand-gold/30">·</span>
-                  <span>Free</span>
+                  <span>Play-by-Play</span>
                 </div>
               </div>
             </div>
@@ -287,8 +287,8 @@ export default function Home() {
               icon={<YouTubeIcon className="w-8 h-8" />}
               platform="YouTube"
               handle="@DP.Broadcast"
-              desc="Live game broadcasts, full replays, and play-by-play coverage of every Boca Beach Boys game."
-              cta="Subscribe Free →"
+              desc="Full game replays, highlights, and play-by-play coverage of every Boca Beach Boys game."
+              cta="Subscribe →"
               accentColor="brand-gold"
               shadowColor="rgba(180,151,90,0.2)"
             />

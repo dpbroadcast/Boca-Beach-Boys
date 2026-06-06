@@ -115,7 +115,7 @@ export default function GameModal({ game, onClose }) {
         {isUpcoming && !ytId && (
           <div className="p-6 border-b border-white/5">
             <p className="text-gray-400 text-sm mb-4">
-              Watch this game live on the DP.Broadcast YouTube channel when it airs.
+              Full game replays and highlights will be available on the DP.Broadcast YouTube channel after the game.
             </p>
             <a
               href={game.youtubeStreamUrl ?? 'https://www.youtube.com/@DP.Broadcast'}

@@ -55,14 +55,13 @@ export default function About() {
               <div className="space-y-3 font-outfit text-gray-300 text-sm leading-relaxed mb-6">
                 <p>
                   Dylan Paul is a sports broadcaster covering the Boca Beach Boys in the South
-                  Florida Collegiate Baseball League. Based in Boca Raton, Dylan brings live
+                  Florida Collegiate Baseball League. Based in Boca Raton, Dylan brings
                   play-by-play coverage to fans across South Florida and beyond — every home and
                   away game, every pitch, all summer long.
                 </p>
                 <p>
-                  Every game is broadcast live and free on the DP.Broadcast YouTube channel,
-                  with full replays available after each game so you never miss a moment of
-                  Boca's summer baseball action.
+                  Full game replays and highlights are available on the DP.Broadcast YouTube channel
+                  after each game, so you never miss a moment of Boca's summer baseball action.
                 </p>
               </div>
 
@@ -108,7 +107,7 @@ export default function About() {
               </div>
               <div className="flex-1 min-w-0">
                 <div className="font-bebas text-xl tracking-widest text-white">@DP.BROADCAST</div>
-                <div className="font-outfit text-gray-500 text-xs">Live game broadcasts · Full replays · 2026 SFCBL season</div>
+                <div className="font-outfit text-gray-500 text-xs">Full game replays · Highlights · 2026 SFCBL season</div>
               </div>
               <a
                 href={YT_URL}
@@ -123,8 +122,8 @@ export default function About() {
             <div className="p-6 flex flex-col sm:flex-row items-start sm:items-center gap-5">
               <div className="flex-1">
                 <p className="font-outfit text-gray-400 text-sm leading-relaxed">
-                  All Boca Beach Boys game broadcasts are available free on the DP.Broadcast
-                  YouTube channel. Subscribe and hit the bell so you never miss a live stream.
+                  Full game replays and highlights from every Boca Beach Boys game are available
+                  on the DP.Broadcast YouTube channel. Subscribe so you never miss a moment.
                 </p>
               </div>
               <a
@@ -161,7 +160,7 @@ export default function About() {
               icon={<YouTubeIcon className="w-6 h-6" />}
               label="YouTube"
               handle="@DP.Broadcast"
-              desc="Live broadcasts & replays"
+              desc="Full game replays & highlights"
               accent="text-brand-gold"
               border="hover:border-brand-gold/40"
             />
@@ -190,7 +189,7 @@ export default function About() {
         <div className="bg-[#0B1424] border border-white/5 rounded-sm p-8 text-center">
           <div className="font-bebas text-3xl tracking-widest text-white mb-2">Tune In This Summer</div>
           <p className="font-outfit text-gray-500 text-sm mb-6 max-w-md mx-auto">
-            Every Beach Boys game — live play-by-play on YouTube. Season runs June through August 2026.
+            Full game replays and highlights from every Beach Boys game on YouTube. Season runs June through August 2026.
           </p>
           <div className="flex flex-wrap gap-3 justify-center">
             <a href={YT_URL} target="_blank" rel="noopener noreferrer" className="btn-gold">
