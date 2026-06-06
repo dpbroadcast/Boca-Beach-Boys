@@ -41,7 +41,7 @@ Sean Bartlett and Mason Adkins split the final two innings, allowing the Iguanas
 ## Up Next
 
 Boca carries this momentum into a busy stretch of the schedule. Stay tuned to DP.Broadcast for full coverage all summer long.`,
-    imageUrl: null,
+    imageUrl: "/assets/team-huddle.jpg",
     boxScore: {
       batting: [
         { name: "McClarnon, Roby",  ab: 4, h: 1, hr: 1, r: 2, rbi: 2, bb: 0, so: 0 },
@@ -119,7 +119,7 @@ One of the more unexpected threads in the conversation: Rivero plays poker. A lo
 It tracks. The same calculated patience that makes a good poker player — not overreacting to one bad hand, staying disciplined in the moment, trusting the process — shows up in how Rivero pitches. Whether it's 3-0 or bases loaded, the approach doesn't change.
 
 If today is any indication, the Beach Boys are going to like having him in their rotation all summer.`,
-    imageUrl: null,
+    imageUrl: "/assets/postgame-interview.jpg",
   },
   {
     id: "bartlett-june-5-interview",
@@ -161,7 +161,7 @@ Playing in Florida is new for Bartlett, and he's embraced it. He spoke positivel
 That environment suits someone in his position. Coming back from what he's come back from, the last thing you need is a tense, high-pressure atmosphere. The Beach Boys give him room to work, and he's taking advantage of it.
 
 The road back was long. He made it. The rest of the summer is his to take.`,
-    imageUrl: null,
+    imageUrl: "/assets/bartlett-rivero-beach.jpg",
   },
   // Add articles here after each game. Example:
   //
