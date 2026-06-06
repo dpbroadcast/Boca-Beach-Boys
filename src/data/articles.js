@@ -16,7 +16,9 @@ export const articles = [
     date: "2026-06-05",
     gameId: "game-003",
     excerpt: "Roby McClarnon went deep and Aiden Rivero dealt a gem as Boca cruised to a 10-4 road win over the Iguanas.",
-    content: `The Boca Beach Boys opened their 2026 SFCBL season in style, rolling past the Iguanas 10-4 on the road at Keiser University. Three home runs, five innings of combined shutout pitching from the top of the bullpen, and contributions up and down the lineup made for a statement opener.
+    content: `You can't have a much hotter start to the season than this. Roby McClarnon stepped into the box to lead off the very first at-bat of the Boca Beach Boys' 2026 campaign — and promptly hit it over the fence. Then Logan Morris did the same thing. Then Gio Lo Nero did it too. Three batters, three solo home runs, all in the top of the first inning. The season was barely underway and the Iguanas were already in trouble.
+
+From there, the Beach Boys never let up, rolling to a 10-4 road win at Keiser University behind a complete team effort on both sides of the ball.
 
 ## Roby McClarnon: Player of the Game
 
