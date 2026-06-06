@@ -88,6 +88,9 @@ export default function ArticleDetail() {
           <ArticleBody content={article.content} />
         </div>
 
+        {/* Box Score */}
+        {article.boxScore && <BoxScore boxScore={article.boxScore} />}
+
         {/* Replay embed */}
         {ytId && (
           <div className="mt-10">
@@ -107,6 +110,78 @@ export default function ArticleDetail() {
         <div className="mt-12 pt-8 border-t border-white/5 flex justify-between">
           <Link to="/articles" className="btn-outline text-xs">← All Articles</Link>
           <Link to="/schedule" className="btn-outline text-xs">Season Schedule →</Link>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+function BoxScore({ boxScore }) {
+  return (
+    <div className="mt-10 space-y-8">
+      <h2 className="font-bebas text-2xl tracking-widest text-[#00C4E0]">Box Score</h2>
+
+      {/* Batting */}
+      <div>
+        <div className="text-[10px] font-bold uppercase tracking-widest text-gray-500 mb-2">Batting</div>
+        <div className="overflow-x-auto rounded-sm border border-white/5">
+          <table className="w-full text-sm">
+            <thead>
+              <tr className="bg-[#0B1424] border-b border-white/5">
+                <th className="text-left px-4 py-2.5 text-[10px] font-bold uppercase tracking-widest text-gray-500 w-48">Player</th>
+                {['AB','H','HR','R','RBI','BB','SO'].map(col => (
+                  <th key={col} className="px-3 py-2.5 text-[10px] font-bold uppercase tracking-widest text-gray-500 text-center">{col}</th>
+                ))}
+              </tr>
+            </thead>
+            <tbody>
+              {boxScore.batting.map((row, i) => (
+                <tr key={i} className={`border-b border-white/5 last:border-0 ${i % 2 === 0 ? 'bg-[#0D1826]' : 'bg-[#0B1520]'}`}>
+                  <td className="px-4 py-2.5 text-gray-200 font-medium">{row.name}</td>
+                  <td className="px-3 py-2.5 text-center text-gray-300">{row.ab}</td>
+                  <td className={`px-3 py-2.5 text-center font-semibold ${row.h > 0 ? 'text-white' : 'text-gray-500'}`}>{row.h}</td>
+                  <td className={`px-3 py-2.5 text-center font-semibold ${row.hr > 0 ? 'text-[#00C4E0]' : 'text-gray-500'}`}>{row.hr}</td>
+                  <td className="px-3 py-2.5 text-center text-gray-300">{row.r}</td>
+                  <td className={`px-3 py-2.5 text-center font-semibold ${row.rbi > 0 ? 'text-green-400' : 'text-gray-500'}`}>{row.rbi}</td>
+                  <td className="px-3 py-2.5 text-center text-gray-500">{row.bb}</td>
+                  <td className={`px-3 py-2.5 text-center ${row.so > 0 ? 'text-red-400/70' : 'text-gray-500'}`}>{row.so}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      {/* Pitching */}
+      <div>
+        <div className="text-[10px] font-bold uppercase tracking-widest text-gray-500 mb-2">Pitching</div>
+        <div className="overflow-x-auto rounded-sm border border-white/5">
+          <table className="w-full text-sm">
+            <thead>
+              <tr className="bg-[#0B1424] border-b border-white/5">
+                <th className="text-left px-4 py-2.5 text-[10px] font-bold uppercase tracking-widest text-gray-500 w-48">Pitcher</th>
+                {['IP','H','R','ER','BB','SO'].map(col => (
+                  <th key={col} className="px-3 py-2.5 text-[10px] font-bold uppercase tracking-widest text-gray-500 text-center">{col}</th>
+                ))}
+              </tr>
+            </thead>
+            <tbody>
+              {boxScore.pitching.map((row, i) => (
+                <tr key={i} className={`border-b border-white/5 last:border-0 ${i % 2 === 0 ? 'bg-[#0D1826]' : 'bg-[#0B1520]'}`}>
+                  <td className="px-4 py-2.5 text-gray-200 font-medium">
+                    {row.name}
+                    {row.note && <span className="ml-2 text-[10px] font-bold text-green-400 uppercase tracking-widest">{row.note}</span>}
+                  </td>
+                  <td className="px-3 py-2.5 text-center text-gray-300">{row.ip}</td>
+                  <td className={`px-3 py-2.5 text-center ${row.h > 0 ? 'text-gray-300' : 'text-gray-500'}`}>{row.h}</td>
+                  <td className={`px-3 py-2.5 text-center ${row.r > 0 ? 'text-red-400/80' : 'text-gray-500'}`}>{row.r}</td>
+                  <td className={`px-3 py-2.5 text-center ${row.er > 0 ? 'text-red-400' : 'text-gray-500'}`}>{row.er}</td>
+                  <td className="px-3 py-2.5 text-center text-gray-500">{row.bb}</td>
+                  <td className={`px-3 py-2.5 text-center font-semibold ${row.so > 0 ? 'text-[#00C4E0]' : 'text-gray-500'}`}>{row.so}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
         </div>
       </div>
     </div>
