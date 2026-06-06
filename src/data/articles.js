@@ -38,36 +38,6 @@ Rivero handed the ball to Nick Fraginals, who was simply electric. The right-han
 
 Sean Bartlett and Mason Adkins split the final two innings, allowing the Iguanas to make it look somewhat respectable with four late runs. But by that point, the Beach Boys had long put the game away.
 
-## Aiden Rivero: Trusting His Stuff
-
-After the game, Rivero spoke about what made today's outing click. For a game that carried extra weight — with portal players on showcase — Rivero kept it simple.
-
-"From the start, I was really confident," he said. "I always trust my stuff. It's just about not overthinking and not trying to get too mechanical."
-
-Rivero, a Miami native who played high school ball locally before earning All-District and All-Region honors and appearing in the Miami-Dade County Senior All-Star Game at Stetson, spent last season at East Georgia. He's entering the transfer portal this fall after the program's transition to NAIA, and is looking for a JUCO or D2 opportunity in Florida. He credits work with a pitching coach who has big league experience for helping him find some mechanical unlocks heading into this summer.
-
-The stat line — three innings, two hits, zero runs — speaks for itself, but Rivero was quick to point to his pitch mix as the foundation. He's not a 95 mph guy and doesn't pretend to be. His game is built around a changeup, a sinker, and the ability to generate weak contact and keep pitch counts low.
-
-"My go-to pitch since junior year has always been the changeup," he said. "I have the most confidence with it. It disrupts timing, and I can throw it in any count — 3-0, 3-2, doesn't matter."
-
-When he got behind in counts today, his reset was the same as it always is: step off, breathe, and focus on throwing a strike. "My main thing is just breathing and not making the moment too big," he said. "Especially when pitching with a lead."
-
-He also had a front-row seat for the first inning. "I was just sitting down drinking water, trying to dial in for my inning," Rivero said. "I see Roby hit that bomb and I'm like, well, that's a great start — and then I see two more and I was like, yeah, this is gonna be a dub."
-
-Rivero is quick to credit the team environment as a factor too. From the first practice, he said, there were no cliques — just a group of guys introducing themselves and buying in. "That home run really just gelled us completely," he said. "I think this is going to be a great season."
-
-## Sean Bartlett: Back and Ready
-
-Sean Bartlett's road to this mound was longer than most. The right-hander has battled through double hip surgery and a torn patellar tendon — injuries that would end careers for less determined players. He's rebuilt himself through a combination of physical recovery, mechanical refinement, and a mental approach that clearly translates to the mound.
-
-Today's outing — one inning, two hits, one earned run — was Bartlett's first appearance in a game setting after a long stretch away from pitching in competition. The results were imperfect, but his mindset wasn't. He came in focused, stayed loose, and leaned on preparation he's put in over months of work.
-
-Bartlett spoke about the importance of not trying to force results — a mindset that's easier said than done when you're returning from serious injury in a showcase environment. He was particularly relieved to see his fastball velocity where it needed to be, a major marker for where his stuff is heading.
-
-He also highlighted his chemistry with catcher Aaron Orozco. "When a catcher adds that energy, it makes a pitcher way better," he noted — echoing a sentiment Rivero shared as well. Orozco's vocal presence behind the plate has clearly made an impression on the pitching staff early.
-
-Looking ahead, Bartlett acknowledged the need to mix in more off-speed pitches as the season progresses. But the foundation is there, and the resilience it took just to get back on a mound speaks volumes about what he brings to this staff.
-
 ## Up Next
 
 Boca carries this momentum into a busy stretch of the schedule. Stay tuned to DP.Broadcast for full coverage all summer long.`,
@@ -92,6 +62,106 @@ Boca carries this momentum into a busy stretch of the schedule. Stay tuned to DP
         { name: "Adkins, Mason",   ip: "1.0", h: 1, r: 2, er: 2, bb: 0, so: 1, note: null },
       ],
     },
+  },
+  {
+    id: "rivero-june-5-interview",
+    slug: "rivero-june-5-interview",
+    title: "Trusting His Stuff: A Conversation with Aiden Rivero",
+    date: "2026-06-05",
+    gameId: "game-003",
+    excerpt: "After three scoreless innings to open the season, Aiden Rivero sat down to talk changeups, mental approach, poker, and what he's looking for in the fall.",
+    content: `Aiden Rivero didn't need a perfect outing to make a statement on opening day. Three innings, two hits, zero runs — and a composure on the mound that made it look routine. After the game, the right-hander spoke about what went into it.
+
+## Background
+
+Rivero is a Miami native who played his high school ball locally, earning All-District and All-Region honors for Miami-Dade County before appearing in the Senior All-Star Game at Stetson University. He went on to play at East Georgia College, where he had a strong showing in his first taste of college competition. This fall, he'll be entering the transfer portal following the program's transition to NAIA, and is looking for a JUCO or D2 opportunity in Florida.
+
+Heading into this summer, Rivero has been working closely with a pitching coach who spent time in the big leagues — and he says the results have been noticeable. "This whole month of May and early June, I've been working with a great pitching coach who spent some time in the bigs," he said. "He's been helping me have some mechanical unlocks. It's all working out."
+
+## The Showcase Mindset
+
+Today's game carried extra weight — with portal players on display, it had the feel of a showcase. Rivero acknowledged that, but said it didn't change his approach. "From the start, I was really confident. I always trust my stuff. It's just about not overthinking and not trying to get too mechanical."
+
+His stat line backed that up. He walked two and worked around both, keeping the Iguanas off the board through three innings and handing a clean game to the bullpen.
+
+## The Arsenal
+
+Rivero is upfront about what he is as a pitcher. He's not a 95 mph guy. His game is built on pitch ability — a sinker that generates ground balls, and a changeup he's been throwing with confidence since his junior year of high school.
+
+"My go-to pitch has always been the changeup," he said. "It disrupts timing and I can throw it in any count — 3-0, 3-2, doesn't matter. I always have confidence in it."
+
+The sinker is his fastball, but the changeup is the weapon. That combination keeps pitch counts low, which in turn lets him go deeper into games.
+
+## Staying Composed
+
+Even with the confidence, there were moments today where he fell behind in counts. His reset is simple. "I step off the mound and just breathe," he said. "My main thing is not making the moment too big — especially when pitching with a lead."
+
+That mindset extends to how he views run support. "I don't care if I give up a few runs as long as we get the W," he said. "I know our team is going to hit and we're going to score. It's my job to get us the win when I'm on the mound."
+
+## Watching the First Inning
+
+Rivero had a front-row seat for one of the most electric first innings you'll see. He was locked in on his own preparation when Roby McClarnon led off the game with a home run — then watched Logan Morris and Gio Lo Nero follow suit.
+
+"I was just sitting down drinking water, trying to dial in for my inning," he said. "I see Roby hit that bomb and I'm like, well, that's a great start. And then I see two more and I was like — yeah, this is gonna be a dub."
+
+## The Team So Far
+
+For a group that had mostly just met in the days prior, Rivero said the chemistry came quickly. "From the first practice, everyone was super cool. No little cliques, no groups of people who already knew each other staying to themselves. Everyone was introducing themselves."
+
+He sees that carrying over into a long summer. "That home run really just gelled us completely. I think this is going to be a great season."
+
+## The Poker Connection
+
+One of the more unexpected threads in the conversation: Rivero plays poker. A lot of it. And he thinks it's made him a better pitcher.
+
+"I think it's made me smarter because I'm able to read players better," he said. "It sharpened the mental side of baseball — I feel like I read hitters better now."
+
+It tracks. The same calculated patience that makes a good poker player — not overreacting to one bad hand, staying disciplined in the moment, trusting the process — shows up in how Rivero pitches. Whether it's 3-0 or bases loaded, the approach doesn't change.
+
+If today is any indication, the Beach Boys are going to like having him in their rotation all summer.`,
+    imageUrl: null,
+  },
+  {
+    id: "bartlett-june-5-interview",
+    slug: "bartlett-june-5-interview",
+    title: "The Long Road Back: Sean Bartlett Is Ready",
+    date: "2026-06-05",
+    gameId: "game-003",
+    excerpt: "Double hip surgery, a torn patellar tendon, and a long stretch away from the game. Sean Bartlett's return to the mound has been anything but easy — but he's back.",
+    content: `Most players don't come back from one major injury. Sean Bartlett has come back from several. Double hip surgery. A torn patellar tendon. A stretch away from competitive pitching that would have ended a lot of careers. He's not most players.
+
+## The Road Back
+
+Bartlett's recovery has been built on three things: a strong support system, a deep understanding of his own mechanics, and a mental approach that keeps the noise out. He hasn't rushed. He's been meticulous — about his preparation, about how he uses his body, about what he puts on the mound every time he takes the ball.
+
+Today was his first outing in a competitive game setting after that long absence. One inning, two hits, one earned run. The numbers weren't perfect. The mindset was.
+
+## Not Forcing It
+
+The thing Bartlett kept coming back to in conversation was consistency — and not trying to manufacture results. That's a hard thing to internalize when you've been away for as long as he has, when every outing carries the weight of proving you belong back out there.
+
+He came into today focused on staying loose and trusting his preparation rather than gripping the moment too tightly. He spoke about the relief of seeing his fastball velocity where it needs to be — a benchmark that matters more than ERA in an early-season outing like this one, because it tells you where the rest of the arsenal is headed.
+
+## What He's Building Toward
+
+Bartlett acknowledged that mixing in more off-speed pitches will be a priority as the season progresses. The fastball and curveball were both working today, and getting a full complement of pitches operating at game speed — consistently — is the next step.
+
+It's a process. He knows that. And the fact that he's treating it like a process, rather than trying to shortcut back to where he was before the injuries, says a lot about where his head is at.
+
+## The Battery
+
+One thing that clearly helped: his relationship with catcher Aaron Orozco. Bartlett was direct about how much a catcher's energy affects a pitcher's mindset on the mound.
+
+"When a catcher adds that energy, it makes a pitcher way better," he said. If your catcher is vocal, confident, and in your corner, it changes how you operate. Orozco has made that impression on more than one pitcher on this staff early in the season.
+
+## A Different Environment
+
+Playing in Florida is new for Bartlett, and he's embraced it. He spoke positively about the transition and about the coaching staff — an environment that, by his account, encourages players to have fun and stay loose rather than press.
+
+That environment suits someone in his position. Coming back from what he's come back from, the last thing you need is a tense, high-pressure atmosphere. The Beach Boys give him room to work, and he's taking advantage of it.
+
+The road back was long. He made it. The rest of the summer is his to take.`,
+    imageUrl: null,
   },
   // Add articles here after each game. Example:
   //
