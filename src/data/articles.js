@@ -16,19 +16,29 @@ export const articles = [
     date: "2026-06-05",
     gameId: "game-003",
     excerpt: "Roby McClarnon went deep and Aiden Rivero dealt a gem as Boca cruised to a 10-4 road win over the Iguanas.",
-    content: `The Boca Beach Boys picked up a convincing 10-4 road victory over the Iguanas on Friday morning at Keiser University, improving their 2026 SFCBL record with a balanced effort on both sides of the ball.
+    content: `The Boca Beach Boys opened their 2026 SFCBL season in style, rolling past the Iguanas 10-4 on the road at Keiser University. Three home runs, five innings of combined shutout pitching from the top of the bullpen, and contributions up and down the lineup made for a statement opener.
 
 ## Roby McClarnon: Player of the Game
 
-Roby McClarnon was the offensive star of the afternoon, going 2-for-4 with a home run and three RBIs. His big fly provided the kind of momentum swing that put the game firmly out of reach.
+Roby McClarnon set the tone for the entire afternoon. The Beach Boys first baseman went 2-for-4 with a home run and three RBIs, doing the most damage of anyone in the lineup. His home run was the kind of swing that changes the feel of a game — from that moment on, Boca never looked back. McClarnon also came around to score twice, making him the clear standout on a day full of offensive contributions.
 
-## Aiden Rivero Shuts Down Iguanas Early
+## Three-Homer Day
 
-On the mound, starting pitcher Aiden Rivero was dominant through his three innings of work. He allowed just one hit, struck out three, and didn't surrender an earned run — setting the tone for what became a comfortable Beach Boys win.
+McClarnon wasn't the only one going deep. Logan Morris matched him with a solo shot of his own, going 1-for-4 with an RBI. Gio Lo Nero added a third home run on the day, also finishing 1-for-3 with an RBI. Three different players clearing the fences in the season opener is a strong early sign for an offense with plenty of pop.
+
+Jesse Yngber was the other offensive standout, going 2-for-2 with a walk, an RBI, and a run scored — the most efficient line in the box. Tyler Little chipped in a double and two RBIs, and Boca drew enough walks throughout the lineup to keep the pressure on all game.
+
+## Rivero and Fraginals Combine for Five Dominant Innings
+
+The pitching staff was equally impressive. Starter Aiden Rivero went three innings, allowing two hits while striking out three and keeping the Iguanas off the board entirely. He walked two, but worked around traffic both times — a composed outing to open his 2026 campaign.
+
+Rivero handed the ball to Nick Fraginals, who was simply electric. The right-hander threw two perfect innings — no hits, no walks, and four strikeouts. In just six outs, Fraginals retired every batter he faced and punched out four of them. It was the most dominant stretch of pitching on the day and a huge early-season statement for Fraginals coming out of the bullpen.
+
+Sean Bartlett and Mason Adkins split the final two innings, allowing the Iguanas to make it look somewhat respectable with four late runs. But by that point, the Beach Boys had long put the game away.
 
 ## Up Next
 
-The Beach Boys are back in action tomorrow as the summer schedule heats up. Stay tuned to DP.Broadcast for all the coverage.`,
+Boca carries this momentum into a busy stretch of the schedule. Stay tuned to DP.Broadcast for full coverage all summer long.`,
     imageUrl: null,
     boxScore: {
       batting: [
