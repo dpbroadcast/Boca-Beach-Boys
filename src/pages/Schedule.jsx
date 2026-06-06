@@ -209,16 +209,24 @@ function GameRow({ game, onClick }) {
   return (
     <button
       onClick={onClick}
-      className={`w-full text-left flex items-center gap-4 px-5 py-4 rounded-sm border transition-all duration-200 group ${
+      className={`w-full text-left flex items-center gap-4 px-5 py-4 rounded-sm border transition-all duration-200 group relative overflow-hidden ${
         isOff
           ? 'bg-[#0D1420] border-[#151E2D] opacity-60 hover:opacity-80'
           : isLive
           ? 'bg-[#1A0A0A] border-red-900/40 hover:border-red-500/40'
           : isPostponed
           ? 'bg-[#1A1000] border-orange-900/30 opacity-75 hover:opacity-90'
+          : isWin
+          ? 'bg-[#061A0E] border-green-900/50 hover:border-green-500/50 hover:bg-[#081F10]'
+          : isLoss
+          ? 'bg-[#1A0808] border-red-900/40 hover:border-red-500/40 hover:bg-[#1F0A0A]'
           : 'bg-brand-bg-card border-white/5 hover:border-[#00C4E0]/40 hover:shadow-glow'
       }`}
     >
+      {/* Win/loss left accent stripe */}
+      {(isWin || isLoss) && (
+        <span className={`absolute left-0 top-0 bottom-0 w-1 rounded-l-sm ${isWin ? 'bg-green-500' : 'bg-red-500'}`} />
+      )}
       {/* Date block */}
       <div className="flex-shrink-0 w-14 text-center">
         <div className="text-[10px] font-bold uppercase tracking-widest text-gray-600">
@@ -259,6 +267,10 @@ function GameRow({ game, onClick }) {
           className={`font-bebas text-xl tracking-widest truncate transition-colors ${
             isOff
               ? 'text-gray-600'
+              : isWin
+              ? 'text-green-300 group-hover:text-green-200'
+              : isLoss
+              ? 'text-red-300 group-hover:text-red-200'
               : 'text-white group-hover:text-[#00C4E0]'
           }`}
         >
