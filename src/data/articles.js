@@ -69,56 +69,30 @@ Boca carries this momentum into a busy stretch of the schedule. Stay tuned to DP
     title: "Trusting His Stuff: A Conversation with Aiden Rivero",
     date: "2026-06-05",
     gameId: "game-003",
-    excerpt: "After three scoreless innings to open the season, Aiden Rivero sat down to talk changeups, mental approach, poker, and what he's looking for in the fall.",
-    content: `Aiden Rivero didn't need a perfect outing to make a statement on opening day. Three innings, two hits, zero runs — and a composure on the mound that made it look routine. After the game, the right-hander spoke about what went into it.
+    excerpt: "After three scoreless innings to open the season, Aiden Rivero sat down to talk pitch mix, mental approach, and what made today click.",
+    content: `Aiden Rivero didn't need a perfect outing to make a statement on opening day. Three innings, two hits, zero runs — and a composure on the mound that made it look routine.
 
-## Background
+## The Mindset
 
-Rivero is a Miami native who played his high school ball locally, earning All-District and All-Region honors for Miami-Dade County before appearing in the Senior All-Star Game at Stetson University. He went on to play at East Georgia College, where he had a strong showing in his first taste of college competition. This fall, he'll be entering the transfer portal following the program's transition to NAIA, and is looking for a JUCO or D2 opportunity in Florida.
+Today's game had the feel of a showcase, but Rivero wasn't overthinking it. He trusted his stuff, stayed within himself, and let the results follow. His stat line — three scoreless, three strikeouts — backed that up.
 
-Heading into this summer, Rivero has been working closely with a pitching coach who spent time in the big leagues — and he says the results have been noticeable. "This whole month of May and early June, I've been working with a great pitching coach who spent some time in the bigs," he said. "He's been helping me have some mechanical unlocks. It's all working out."
-
-## The Showcase Mindset
-
-Today's game carried extra weight — with portal players on display, it had the feel of a showcase. Rivero acknowledged that, but said it didn't change his approach. "From the start, I was really confident. I always trust my stuff. It's just about not overthinking and not trying to get too mechanical."
-
-His stat line backed that up. He walked two and worked around both, keeping the Iguanas off the board through three innings and handing a clean game to the bullpen.
+When he fell behind in counts, the reset was simple: step off, breathe, focus on throwing a strike. Not making the moment bigger than it needs to be is something he's clearly worked on, and it showed.
 
 ## The Arsenal
 
-Rivero is upfront about what he is as a pitcher. He's not a 95 mph guy. His game is built on pitch ability — a sinker that generates ground balls, and a changeup he's been throwing with confidence since his junior year of high school.
+Rivero isn't built around velocity. His game runs through a sinker that generates weak contact and keeps pitch counts low, paired with a changeup he's had full confidence in for years. The changeup is the weapon — he'll throw it in any count, any situation. That combination lets him work efficiently and go deeper into games.
 
-"My go-to pitch has always been the changeup," he said. "It disrupts timing and I can throw it in any count — 3-0, 3-2, doesn't matter. I always have confidence in it."
-
-The sinker is his fastball, but the changeup is the weapon. That combination keeps pitch counts low, which in turn lets him go deeper into games.
-
-## Staying Composed
-
-Even with the confidence, there were moments today where he fell behind in counts. His reset is simple. "I step off the mound and just breathe," he said. "My main thing is not making the moment too big — especially when pitching with a lead."
-
-That mindset extends to how he views run support. "I don't care if I give up a few runs as long as we get the W," he said. "I know our team is going to hit and we're going to score. It's my job to get us the win when I'm on the mound."
+He's also been putting in work with a pitching coach this offseason, and the mechanical progress he's made heading into this summer was evident today.
 
 ## Watching the First Inning
 
-Rivero had a front-row seat for one of the most electric first innings you'll see. He was locked in on his own preparation when Roby McClarnon led off the game with a home run — then watched Logan Morris and Gio Lo Nero follow suit.
+Rivero was locked into his own preparation when the offense erupted in the top of the first — three solo home runs before he ever took the mound. By the time he warmed up, the tone was already set.
 
-"I was just sitting down drinking water, trying to dial in for my inning," he said. "I see Roby hit that bomb and I'm like, well, that's a great start. And then I see two more and I was like — yeah, this is gonna be a dub."
+"I see Roby hit that bomb and I'm like, well, that's a great start," he said. "And then two more — yeah, this is gonna be a dub."
 
-## The Team So Far
+## Early Chemistry
 
-For a group that had mostly just met in the days prior, Rivero said the chemistry came quickly. "From the first practice, everyone was super cool. No little cliques, no groups of people who already knew each other staying to themselves. Everyone was introducing themselves."
-
-He sees that carrying over into a long summer. "That home run really just gelled us completely. I think this is going to be a great season."
-
-## The Poker Connection
-
-One of the more unexpected threads in the conversation: Rivero plays poker. A lot of it. And he thinks it's made him a better pitcher.
-
-"I think it's made me smarter because I'm able to read players better," he said. "It sharpened the mental side of baseball — I feel like I read hitters better now."
-
-It tracks. The same calculated patience that makes a good poker player — not overreacting to one bad hand, staying disciplined in the moment, trusting the process — shows up in how Rivero pitches. Whether it's 3-0 or bases loaded, the approach doesn't change.
-
-If today is any indication, the Beach Boys are going to like having him in their rotation all summer.`,
+For a team that had only just come together, the energy was already there. Rivero credited the group's buy-in from day one, and said the first-inning explosion felt like a moment that brought everyone together fast. If today is any indication, he's going to fit right in.`,
     imageUrl: "/assets/postgame-interview.jpg",
   },
   {
@@ -127,40 +101,22 @@ If today is any indication, the Beach Boys are going to like having him in their
     title: "The Long Road Back: Sean Bartlett Is Ready",
     date: "2026-06-05",
     gameId: "game-003",
-    excerpt: "Double hip surgery, a torn patellar tendon, and a long stretch away from the game. Sean Bartlett's return to the mound has been anything but easy — but he's back.",
-    content: `Most players don't come back from one major injury. Sean Bartlett has come back from several. Double hip surgery. A torn patellar tendon. A stretch away from competitive pitching that would have ended a lot of careers. He's not most players.
+    excerpt: "Sean Bartlett overcame significant injuries to get back on the mound. After his first outing with the Beach Boys, it's clear the work has paid off.",
+    content: `Sean Bartlett has put in the work to get back on a mound, and it showed today. One inning, a few hits, one earned run — not a perfect line, but a composed outing from a pitcher who came in prepared and competed.
 
-## The Road Back
+## The Approach
 
-Bartlett's recovery has been built on three things: a strong support system, a deep understanding of his own mechanics, and a mental approach that keeps the noise out. He hasn't rushed. He's been meticulous — about his preparation, about how he uses his body, about what he puts on the mound every time he takes the ball.
+Bartlett's game is built on consistency and knowing what he's doing out there. He's not trying to overpower hitters — he works with his fastball and curveball, stays within himself, and keeps things simple. The velocity has been where he wants it, which sets up everything else.
 
-Today was his first outing in a competitive game setting after that long absence. One inning, two hits, one earned run. The numbers weren't perfect. The mindset was.
-
-## Not Forcing It
-
-The thing Bartlett kept coming back to in conversation was consistency — and not trying to manufacture results. That's a hard thing to internalize when you've been away for as long as he has, when every outing carries the weight of proving you belong back out there.
-
-He came into today focused on staying loose and trusting his preparation rather than gripping the moment too tightly. He spoke about the relief of seeing his fastball velocity where it needs to be — a benchmark that matters more than ERA in an early-season outing like this one, because it tells you where the rest of the arsenal is headed.
-
-## What He's Building Toward
-
-Bartlett acknowledged that mixing in more off-speed pitches will be a priority as the season progresses. The fastball and curveball were both working today, and getting a full complement of pitches operating at game speed — consistently — is the next step.
-
-It's a process. He knows that. And the fact that he's treating it like a process, rather than trying to shortcut back to where he was before the injuries, says a lot about where his head is at.
+His pre-game routine reflects that same discipline. He takes his time, stays loose, and doesn't let the moment get too big. That carried over to today — even when he got into a bit of trouble, the composure was there.
 
 ## The Battery
 
-One thing that clearly helped: his relationship with catcher Aaron Orozco. Bartlett was direct about how much a catcher's energy affects a pitcher's mindset on the mound.
+The chemistry with catcher Aaron Orozco was a clear positive. Orozco is vocal behind the plate, brings energy, and gives pitchers something to feed off. That kind of presence matters, and Bartlett noticed it.
 
-"When a catcher adds that energy, it makes a pitcher way better," he said. If your catcher is vocal, confident, and in your corner, it changes how you operate. Orozco has made that impression on more than one pitcher on this staff early in the season.
+## Looking Ahead
 
-## A Different Environment
-
-Playing in Florida is new for Bartlett, and he's embraced it. He spoke positively about the transition and about the coaching staff — an environment that, by his account, encourages players to have fun and stay loose rather than press.
-
-That environment suits someone in his position. Coming back from what he's come back from, the last thing you need is a tense, high-pressure atmosphere. The Beach Boys give him room to work, and he's taking advantage of it.
-
-The road back was long. He made it. The rest of the summer is his to take.`,
+There's more in the tank. Bartlett talked about working more off-speed pitches into his game as the season goes on, and with the fastball feeling good, that development should come naturally. The Beach Boys have a pitcher who knows how to compete, and the rest of the summer is an opportunity to show it.`,
     imageUrl: "/assets/bartlett-rivero-beach.jpg",
   },
   // Add articles here after each game. Example:
