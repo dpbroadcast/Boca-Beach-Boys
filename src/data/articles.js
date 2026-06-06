@@ -93,7 +93,7 @@ Rivero was locked into his own preparation when the offense erupted in the top o
 ## Early Chemistry
 
 For a team that had only just come together, the energy was already there. Rivero credited the group's buy-in from day one, and said the first-inning explosion felt like a moment that brought everyone together fast. If today is any indication, he's going to fit right in.`,
-    imageUrl: "/assets/postgame-interview.jpg",
+    imageUrl: null,
   },
   {
     id: "bartlett-june-5-interview",
@@ -117,7 +117,7 @@ The chemistry with catcher Aaron Orozco was a clear positive. Orozco is vocal be
 ## Looking Ahead
 
 There's more in the tank. Bartlett talked about working more off-speed pitches into his game as the season goes on, and with the fastball feeling good, that development should come naturally. The Beach Boys have a pitcher who knows how to compete, and the rest of the summer is an opportunity to show it.`,
-    imageUrl: "/assets/bartlett-rivero-beach.jpg",
+    imageUrl: null,
   },
   // Add articles here after each game. Example:
   //
