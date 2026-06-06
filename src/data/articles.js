@@ -10,7 +10,7 @@
 
 export const articles = [
   {
-    id: "article-001",
+    id: "june-5-iguanas-recap",
     slug: "june-5-iguanas-recap",
     title: "Beach Boys Roll Past Iguanas 10-4",
     date: "2026-06-05",
