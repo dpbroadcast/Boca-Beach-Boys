@@ -1,10 +1,13 @@
 import { useState, useMemo } from 'react'
+import { useNavigate } from 'react-router-dom'
 import { games } from '../data/games'
+import { articles } from '../data/articles'
 import GameModal from '../components/GameModal'
 import { getTeamLogo } from '../data/teamLogos'
 
 export default function Schedule() {
   const [selectedGame, setSelectedGame] = useState(null)
+  const navigate = useNavigate()
   const [filter, setFilter] = useState('all') // 'all' | 'home' | 'away' | 'broadcasting'
 
   const filtered = useMemo(() => {
@@ -164,7 +167,17 @@ export default function Schedule() {
 
             <div className="flex flex-col gap-2">
               {monthGames.map((game) => (
-                <GameRow key={game.id} game={game} onClick={() => setSelectedGame(game)} />
+                <GameRow
+                  key={game.id}
+                  game={game}
+                  onClick={() => {
+                    if (game.articleId) {
+                      const article = articles.find((a) => a.id === game.articleId)
+                      if (article) { navigate(`/articles/${article.slug}`); return }
+                    }
+                    setSelectedGame(game)
+                  }}
+                />
               ))}
             </div>
           </div>
