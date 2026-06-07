@@ -761,14 +761,14 @@ export function getYouTubeId(url) {
   return match ? match[1] : null
 }
 
-// Next upcoming/live game on or after today
+// Next upcoming/live game on or after today that Dylan is broadcasting
 export function getNextGame() {
   const today = new Date()
   today.setHours(0, 0, 0, 0)
   return (
     games.find((g) => {
       const d = new Date(g.date + 'T00:00:00')
-      return g.status !== 'completed' && g.status !== 'postponed' && d >= today
+      return g.status !== 'completed' && g.status !== 'postponed' && g.broadcasterRole !== 'OFF' && d >= today
     }) ?? null
   )
 }
