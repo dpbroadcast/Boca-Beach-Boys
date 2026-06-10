@@ -101,7 +101,7 @@ export const games = [
     result: "W 7-3",
     youtubeStreamUrl: null,
     youtubeReplayUrl: null,
-    articleId: null,
+    articleId: "june-8-iguanas-recap",
   },
   {
     id: "game-006",
@@ -118,7 +118,7 @@ export const games = [
     result: "L 2-7",
     youtubeStreamUrl: null,
     youtubeReplayUrl: null,
-    articleId: null,
+    articleId: "june-9-ducks-game1-recap",
   },
   {
     id: "game-007",
@@ -135,7 +135,7 @@ export const games = [
     result: "L 1-2",
     youtubeStreamUrl: null,
     youtubeReplayUrl: null,
-    articleId: null,
+    articleId: "june-9-ducks-game2-recap",
   },
   {
     id: "game-008",
