@@ -259,4 +259,101 @@ Back-to-back losses in a doubleheader sting, but the Beach Boys still have a win
       ],
     },
   },
+  {
+    id: "june-10-lightning-recap",
+    slug: "june-10-lightning-recap",
+    title: "Elkins Dominates as Beach Boys Top Lightning 6-1",
+    date: "2026-06-10",
+    gameId: "game-008",
+    excerpt: "Andrew Elkins spun five scoreless and Rene Ramirez drove in three as Boca bounced back with a 6-1 road win at Little Fenway.",
+    content: `One day removed from a doubleheader sweep, the Boca Raton Beach Boys answered the way good teams do — with a complete, controlled performance. Boca beat the Delray Beach Lightning 6-1 on Wednesday at Little Fenway, getting a dominant start from Andrew Elkins and just enough timely hitting to put the game away.
+
+The Beach Boys broke through with a three-run fourth inning, tacked on two more in the seventh, and added an insurance run in the ninth. The Lightning never threatened — their lone run came on a sacrifice fly in the sixth.
+
+## Andrew Elkins Sets the Tone
+
+Elkins was the difference. The right-hander threw five shutout innings, scattering two hits and striking out four while improving to 2-0 with a sparkling 0.00 ERA. He walked four but pitched around every jam, never letting Delray build any momentum. It was the kind of poised, efficient outing that lets the rest of the team play loose.
+
+Yhirian Marrero closed it out in style, throwing three innings of one-hit ball with four strikeouts. Between Elkins and Marrero, Boca's pitching allowed just one earned run on the day.
+
+## Ramirez and Tabares Provide the Pop
+
+Rene Ramirez was the offensive standout, going 2-for-4 with a double and a team-high three RBIs. His two-run double in the fourth was the swing that broke the game open. Andrew Tabares stayed scorching hot, going 2-for-3 with two RBIs and lifting his average to .455.
+
+The Beach Boys also showcased their defense, turning three double plays — twice with the Giardina-to-Ramirez combination doing the work. On a day where the offense did just enough, the glovework and pitching carried the rest.
+
+## Up Next
+
+Boca stays on the road to face the Palm Beach Gardens Matadors on Thursday. The Beach Boys are rolling, and the schedule keeps coming.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Arroyo, Joel",      ab: 4, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 2 },
+        { name: "Tabares, Andrew",   ab: 3, h: 2, hr: 0, r: 1, rbi: 2, bb: 0, so: 1 },
+        { name: "McClarnon, Roby",   ab: 4, h: 1, hr: 0, r: 1, rbi: 0, bb: 1, so: 0 },
+        { name: "Ramirez, Rene",     ab: 4, h: 2, hr: 0, r: 0, rbi: 3, bb: 1, so: 0 },
+        { name: "Orozco, Aaron",     ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 2, so: 0 },
+        { name: "Little, Tyler",     ab: 4, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 3 },
+        { name: "Cope, Joshua",      ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Page, Austin",      ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+        { name: "Giardina, Silvio",  ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 3 },
+        { name: "Escobar, Michael",  ab: 3, h: 0, hr: 0, r: 2, rbi: 0, bb: 1, so: 2 },
+        { name: "Lo Nero, Gio",      ab: 1, h: 1, hr: 0, r: 2, rbi: 0, bb: 1, so: 0 },
+        { name: "Badillo, Nicholas", ab: 1, h: 1, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+      ],
+      pitching: [
+        { name: "Elkins, Andrew",    ip: "5.0", h: 2, r: 0, er: 0, bb: 4, so: 4, note: "W" },
+        { name: "Harvey, Anthony",   ip: "1.0", h: 3, r: 1, er: 1, bb: 1, so: 0, note: null },
+        { name: "Marrero, Yhirian",  ip: "3.0", h: 1, r: 0, er: 0, bb: 1, so: 4, note: null },
+      ],
+    },
+  },
+  {
+    id: "june-11-matadors-recap",
+    slug: "june-11-matadors-recap",
+    title: "Marrero Drives In Six as Beach Boys Rout Matadors 10-3",
+    date: "2026-06-11",
+    gameId: "game-009",
+    excerpt: "Yhirian Marrero had a six-RBI night and Joel Arroyo capped it with a three-run homer as Boca pounded out 17 hits in a 10-3 win.",
+    content: `The Boca Raton Beach Boys put on an offensive clinic Thursday night, racking up 17 hits and rolling past the Palm Beach Gardens Matadors 10-3 at Palm Beach Central High School. It was a balanced, relentless attack — and one player stood above the rest.
+
+Boca scored in five different innings, never letting the Matadors settle in. A two-run fourth got things going, a three-run sixth opened a comfortable lead, and a four-run finish over the eighth and ninth turned it into a rout.
+
+## Yhirian Marrero: Player of the Game
+
+Yhirian Marrero did it all. The two-way standout went 3-for-4 with a double and an absurd six RBIs, single-handedly accounting for more than half of Boca's run production. His two-run double in the fourth opened the scoring, and he kept delivering with runners on all night. It was the most dominant individual offensive performance of the Beach Boys' season so far.
+
+## Arroyo Caps It With a Bomb
+
+Joel Arroyo had a night of his own — 2-for-3 with a walk, a hit-by-pitch, four runs scored, and a three-run home run in the ninth that put an exclamation point on the win. Austin Page chipped in three hits and three runs, Andrew Tabares added three more hits to push his average to .500, and Dillon Moquin contributed two hits, an RBI, and a pair of stolen bases.
+
+## Rivero Earns the Win
+
+Aiden Rivero was steady on the mound, going five innings and allowing just one earned run on three hits to improve to 2-0. Connor Stefan followed with three innings and three strikeouts. The Matadors managed only six hits all night against Boca's staff.
+
+## Up Next
+
+The Beach Boys return home Friday to take on the Bucs. Boca has won three straight and the bats are as hot as they've been all summer.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Cope, Joshua",      ab: 3, h: 1, hr: 0, r: 0, rbi: 0, bb: 1, so: 0 },
+        { name: "Orozco, Aaron",     ab: 1, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+        { name: "Tabares, Andrew",   ab: 5, h: 3, hr: 0, r: 1, rbi: 0, bb: 0, so: 0 },
+        { name: "Ramirez, Rene",     ab: 5, h: 2, hr: 0, r: 1, rbi: 0, bb: 0, so: 2 },
+        { name: "Badillo, Nicholas", ab: 5, h: 1, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+        { name: "Arroyo, Joel",      ab: 3, h: 2, hr: 1, r: 4, rbi: 3, bb: 1, so: 1 },
+        { name: "Page, Austin",      ab: 5, h: 3, hr: 0, r: 3, rbi: 0, bb: 0, so: 0 },
+        { name: "Yngber, Jesse",     ab: 5, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 4 },
+        { name: "Marrero, Yhirian",  ab: 4, h: 3, hr: 0, r: 1, rbi: 6, bb: 0, so: 1 },
+        { name: "Moquin, Dillon",    ab: 4, h: 2, hr: 0, r: 0, rbi: 1, bb: 0, so: 0 },
+        { name: "Giardina, Silvio",  ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+      ],
+      pitching: [
+        { name: "Rivero, Aiden",     ip: "5.0", h: 3, r: 1, er: 1, bb: 2, so: 1, note: "W" },
+        { name: "Stefan, Connor",    ip: "3.0", h: 0, r: 1, er: 1, bb: 0, so: 3, note: null },
+        { name: "Adkins, Mason",     ip: "1.0", h: 3, r: 1, er: 1, bb: 1, so: 0, note: null },
+      ],
+    },
+  },
 ]
