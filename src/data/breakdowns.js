@@ -60,14 +60,14 @@ export const breakdowns = [
   },
   {
     id: "bsb-005",
-    title: "Beachside Breakdown with Sean Bartlett after win over Iguanas",
+    title: "Beachside Breakdown with Sean Bartlett after win over Blazers",
     date: "2026-06-16",
-    description: "Sean Bartlett joins Dylan after a dominant outing on the mound to break down the win.",
+    description: "Sean Bartlett (5 IP, 1 H, 9 K) joins Dylan to break down Boca's 1-0 combined one-hitter over the Blazers.",
     instagramUrl: "https://www.instagram.com/p/DZqn1nepqoH/",
     youtubeUrl: null,
     thumbnailUrl: null,
-    gameId: null,
-    articleId: null,
+    gameId: "game-013",
+    articleId: "june-16-blazers-recap",
   },
   {
     id: "bsb-006",

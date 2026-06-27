@@ -455,7 +455,7 @@ The Beach Boys get a couple days before returning to host the Boca Raton Blazers
     excerpt: "Sean Bartlett struck out nine and Boca's staff held the Blazers to one hit in a 1-0 pitching masterpiece.",
     content: `This was baseball at its purest — two pitching staffs trading zeros until one team finally blinked. The Boca Raton Beach Boys won that battle, edging the Boca Raton Blazers 1-0 on Tuesday at Lynn University behind a combined one-hitter.
 
-Neither team could find the plate for six innings. The Beach Boys finally broke through in the seventh, manufacturing the game's only run on a Tyler Little RBI to win it.
+Neither team could find the plate for six innings. The Beach Boys finally broke through in the bottom of the seventh, loading the bases and walking it off — Tyler Little drew a bases-loaded walk to force in the game's only run and end it 1-0.
 
 ## Sean Bartlett Sets the Tone
 
