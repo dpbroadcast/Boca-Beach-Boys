@@ -12,17 +12,17 @@ export const articles = [
   {
     id: "june-5-iguanas-recap",
     slug: "june-5-iguanas-recap",
-    title: "Beach Boys Roll Past Iguanas 10-4",
+    title: "Beach Boys Roll Past Iguanas 9-3",
     date: "2026-06-05",
     gameId: "game-003",
-    excerpt: "Roby McClarnon went deep and Aiden Rivero dealt a gem as Boca cruised to a 10-4 road win over the Iguanas.",
-    content: `You can't have a much hotter start to the season than this. Roby McClarnon stepped into the box to lead off the very first at-bat of the Boca Beach Boys' 2026 campaign — and promptly hit it over the fence. Then Logan Morris did the same thing. Then Gio Lo Nero did it too. Three batters, three solo home runs, all in the top of the first inning. The season was barely underway and the Iguanas were already in trouble.
+    excerpt: "Roby McClarnon led off the season with a home run and Nick Fraginals was perfect in relief as Boca cruised to a 9-3 road win over the Iguanas.",
+    content: `You can't have a much hotter start to the season than this. Roby McClarnon stepped into the box to lead off the very first at-bat of the Boca Beach Boys' 2026 campaign — and promptly hit it over the fence. Before the first inning was over, Logan Morris and Gio Lo Nero had done the same. Three solo home runs in the top of the first, and the season was barely underway with the Iguanas already in trouble.
 
-From there, the Beach Boys never let up, rolling to a 10-4 road win at Keiser University behind a complete team effort on both sides of the ball.
+From there, the Beach Boys never let up, rolling to a 9-3 road win behind a complete team effort on both sides of the ball.
 
 ## Roby McClarnon: Player of the Game
 
-Roby McClarnon set the tone for the entire afternoon. The Beach Boys first baseman went 2-for-4 with a home run and three RBIs, doing the most damage of anyone in the lineup. His home run was the kind of swing that changes the feel of a game — from that moment on, Boca never looked back. McClarnon also came around to score twice, making him the clear standout on a day full of offensive contributions.
+Roby McClarnon set the tone for the entire afternoon. The Beach Boys shortstop led off the game with a home run and finished 1-for-4 with two RBIs, doing damage right from the jump. His leadoff blast was the kind of swing that changes the feel of a game — from that moment on, Boca never looked back. McClarnon also came around to score twice, making him a clear standout on a day full of offensive contributions.
 
 ## Three-Homer Day
 
@@ -34,9 +34,9 @@ Jesse Yngber was the other offensive standout, going 2-for-2 with a walk, an RBI
 
 The pitching staff was equally impressive. Starter Aiden Rivero went three innings, allowing two hits while striking out three and keeping the Iguanas off the board entirely. He walked two, but worked around traffic both times — a composed outing to open his 2026 campaign.
 
-Rivero handed the ball to Nick Fraginals, who was simply electric. The right-hander threw two perfect innings — no hits, no walks, and four strikeouts. In just six outs, Fraginals retired every batter he faced and punched out four of them. It was the most dominant stretch of pitching on the day and a huge early-season statement for Fraginals coming out of the bullpen.
+Rivero handed the ball to Nick Fraginals, who was simply electric. The right-hander threw two perfect innings — no hits, no walks, and four strikeouts — and earned the win for his trouble. In just six outs, Fraginals retired every batter he faced and punched out four of them. It was the most dominant stretch of pitching on the day and a huge early-season statement out of the bullpen.
 
-Sean Bartlett and Mason Adkins split the final two innings, allowing the Iguanas to make it look somewhat respectable with four late runs. But by that point, the Beach Boys had long put the game away.
+Sean Bartlett and Mason Adkins split the final two innings, allowing the Iguanas to make it look somewhat respectable with three late runs. But by that point, the Beach Boys had long put the game away.
 
 ## Up Next
 
@@ -45,21 +45,21 @@ Boca carries this momentum into a busy stretch of the schedule. Stay tuned to DP
     boxScore: {
       batting: [
         { name: "McClarnon, Roby",  ab: 4, h: 1, hr: 1, r: 2, rbi: 2, bb: 0, so: 0 },
-        { name: "Morris, Logan",    ab: 4, h: 1, hr: 1, r: 1, rbi: 1, bb: 0, so: 1 },
-        { name: "Yngber, Jesse",    ab: 2, h: 2, hr: 0, r: 1, rbi: 2, bb: 1, so: 0 },
-        { name: "Little, Tyler",    ab: 3, h: 1, hr: 0, r: 1, rbi: 2, bb: 0, so: 2 },
-        { name: "Lo Nero, Gio",     ab: 3, h: 1, hr: 1, r: 1, rbi: 1, bb: 0, so: 0 },
-        { name: "Tabares, Andrew",  ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 2 },
         { name: "Orozco, Aaron",    ab: 2, h: 0, hr: 0, r: 0, rbi: 1, bb: 1, so: 1 },
-        { name: "Cope, Joshua",     ab: 2, h: 0, hr: 0, r: 1, rbi: 0, bb: 1, so: 1 },
+        { name: "Tabares, Andrew",  ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 2 },
+        { name: "Morris, Logan",    ab: 4, h: 1, hr: 1, r: 1, rbi: 1, bb: 0, so: 1 },
+        { name: "Lo Nero, Gio",     ab: 3, h: 1, hr: 1, r: 1, rbi: 1, bb: 0, so: 0 },
         { name: "Moquin, Dillon",   ab: 2, h: 0, hr: 0, r: 1, rbi: 0, bb: 1, so: 1 },
+        { name: "Cope, Joshua",     ab: 2, h: 0, hr: 0, r: 1, rbi: 0, bb: 1, so: 1 },
         { name: "Escobar, Michael", ab: 1, h: 0, hr: 0, r: 1, rbi: 0, bb: 1, so: 1 },
+        { name: "Little, Tyler",    ab: 3, h: 1, hr: 0, r: 1, rbi: 2, bb: 0, so: 2 },
+        { name: "Yngber, Jesse",    ab: 2, h: 2, hr: 0, r: 1, rbi: 2, bb: 1, so: 0 },
       ],
       pitching: [
-        { name: "Rivero, Aiden",   ip: "3.0", h: 2, r: 0, er: 0, bb: 2, so: 3, note: "W" },
-        { name: "Fraginals, Nick", ip: "2.0", h: 0, r: 0, er: 0, bb: 0, so: 4, note: null },
+        { name: "Rivero, Aiden",   ip: "3.0", h: 2, r: 0, er: 0, bb: 2, so: 3, note: null },
+        { name: "Fraginals, Nick", ip: "2.0", h: 0, r: 0, er: 0, bb: 0, so: 4, note: "W" },
         { name: "Bartlett, Sean",  ip: "1.0", h: 2, r: 1, er: 1, bb: 1, so: 2, note: null },
-        { name: "Adkins, Mason",   ip: "1.0", h: 1, r: 2, er: 2, bb: 0, so: 1, note: null },
+        { name: "Adkins, Mason",   ip: "1.0", h: 1, r: 2, er: 2, bb: 0, so: 0, note: null },
       ],
     },
   },

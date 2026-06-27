@@ -9,6 +9,7 @@ import Content from './pages/Content'
 import Articles from './pages/Articles'
 import ArticleDetail from './pages/ArticleDetail'
 import League from './pages/League'
+import Stats from './pages/Stats'
 import About from './pages/About'
 
 function ScrollToTop() {
@@ -30,7 +31,9 @@ export default function App() {
           <Route path="/content" element={<Content />} />
           <Route path="/articles" element={<Articles />} />
           <Route path="/articles/:slug" element={<ArticleDetail />} />
+          <Route path="/standings" element={<League />} />
           <Route path="/league" element={<League />} />
+          <Route path="/stats" element={<Stats />} />
           <Route path="/about" element={<About />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

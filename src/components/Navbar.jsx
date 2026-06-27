@@ -7,7 +7,8 @@ const NAV_LINKS = [
   { to: '/roster', label: 'Roster' },
   { to: '/content', label: 'Content' },
   { to: '/articles', label: 'Articles' },
-  { to: '/league', label: 'League' },
+  { to: '/standings', label: 'Standings' },
+  { to: '/stats', label: 'Stats' },
   { to: '/about', label: 'About' },
 ]
 

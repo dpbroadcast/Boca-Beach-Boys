@@ -1,4 +1,5 @@
 import { breakdowns } from '../data/breakdowns'
+import { highlights } from '../data/highlights'
 
 function getYouTubeId(url) {
   if (!url) return null
@@ -87,6 +88,22 @@ export default function Content() {
             <EmptyEpisodes />
           )}
         </section>
+
+        {/* ── GAME HIGHLIGHTS ─────────────────────────────────── */}
+        {highlights.length > 0 && (
+          <section className="mb-16">
+            <div className="glow-line mb-8" />
+            <h2 className="font-bebas text-3xl tracking-widest text-white mb-2">Game Highlights</h2>
+            <p className="font-outfit text-gray-500 text-sm mb-6">
+              Top plays and clips from Beach Boys games — straight from the broadcast.
+            </p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+              {[...highlights].reverse().map((clip) => (
+                <EpisodeCard key={clip.id} episode={clip} />
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* ── MORE CONTENT TYPES (future) ─────────────────────── */}
         <section>
