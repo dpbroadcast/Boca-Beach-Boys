@@ -356,4 +356,445 @@ The Beach Boys return home Friday to take on the Bucs. Boca has won three straig
       ],
     },
   },
+  {
+    id: "june-12-buccaneers-recap",
+    slug: "june-12-buccaneers-recap",
+    title: "Walk-Off in the 10th: Beach Boys Outlast Buccaneers 10-9",
+    date: "2026-06-12",
+    gameId: "game-010",
+    excerpt: "Tyler Little drove in five and Boca rallied in extra innings to steal a wild 10-9 walk-off win over Boynton Beach.",
+    content: `Some wins you earn the easy way. This wasn't one of them. The Boca Raton Beach Boys traded haymakers with the Boynton Beach Buccaneers for ten innings on Friday at Lynn University before finally walking it off, 10-9, in one of the most dramatic games of the season.
+
+The Buccaneers jumped out early and led for much of the night, but Boca kept clawing back — a run here, two there — until a three-run eighth tied the game and sent it to extras. Both teams scratched across a run in the tenth, and then the Beach Boys ended it for good.
+
+## Tyler Little Carries the Offense
+
+Tyler Little was sensational, going a perfect 4-for-4 with a double and a game-high five RBIs. Time and again he came up with runners on and delivered, single-handedly keeping Boca in the game. It was the kind of clutch, all-night performance that wins ballgames.
+
+Silvio Giardina was right behind him, going 4-for-5 with three RBIs from the bottom of the order. Austin Page added a home run and three hits, and Dillon Moquin reached base four times. The Beach Boys pounded out 14 hits as a team and simply refused to go away.
+
+## A Bullpen Game and a Closer Named McClarnon
+
+It took five pitchers to get through ten innings. After the starters struggled, Anthony Harvey settled things with 2.1 strong innings, and the game ultimately fell to Roby McClarnon — yes, the shortstop — who came on to throw the final two frames. He struck out five and earned the win, sealing an unforgettable night.
+
+## Up Next
+
+Boca stays home Saturday to host the West Palm Beach Iguanas. After a ten-inning thriller, the Beach Boys will look to keep the good times rolling.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Cope, Joshua",     ab: 5, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+        { name: "Arroyo, Joel",     ab: 4, h: 1, hr: 0, r: 0, rbi: 0, bb: 1, so: 2 },
+        { name: "Page, Austin",     ab: 4, h: 3, hr: 1, r: 1, rbi: 1, bb: 1, so: 1 },
+        { name: "Lo Nero, Gio",     ab: 4, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 1 },
+        { name: "Cope, Holden",     ab: 4, h: 0, hr: 0, r: 1, rbi: 0, bb: 0, so: 1 },
+        { name: "Moquin, Dillon",   ab: 3, h: 1, hr: 0, r: 3, rbi: 0, bb: 2, so: 0 },
+        { name: "Pupo, Valentino",  ab: 4, h: 1, hr: 0, r: 2, rbi: 0, bb: 1, so: 1 },
+        { name: "Giardina, Silvio", ab: 5, h: 4, hr: 0, r: 2, rbi: 3, bb: 0, so: 0 },
+        { name: "Orozco, Aaron",    ab: 1, h: 0, hr: 0, r: 1, rbi: 1, bb: 2, so: 0 },
+        { name: "Little, Tyler",    ab: 4, h: 4, hr: 0, r: 0, rbi: 5, bb: 0, so: 0 },
+      ],
+      pitching: [
+        { name: "Allison, Andrew",  ip: "3.2", h: 5, r: 6, er: 5, bb: 2, so: 1, note: null },
+        { name: "Harvey, Anthony",  ip: "2.1", h: 1, r: 0, er: 0, bb: 3, so: 2, note: null },
+        { name: "Beck, Ben",        ip: "2.0", h: 3, r: 2, er: 2, bb: 1, so: 1, note: null },
+        { name: "McClarnon, Roby",  ip: "2.0", h: 2, r: 1, er: 1, bb: 2, so: 5, note: "W" },
+      ],
+    },
+  },
+  {
+    id: "june-13-iguanas-recap",
+    slug: "june-13-iguanas-recap",
+    title: "Bats Go Quiet as Iguanas Edge Beach Boys 3-1",
+    date: "2026-06-13",
+    gameId: "game-011",
+    excerpt: "A day after a ten-inning thriller, Boca managed just three hits and dropped a 3-1 decision to West Palm Beach.",
+    content: `One day after an emotional extra-innings win, the Boca Raton Beach Boys ran into a buzzsaw of pitching. The West Palm Beach Iguanas held Boca to just three hits and pulled away late for a 3-1 win on Saturday at Lynn University.
+
+The game was scoreless into the seventh, a genuine pitchers' duel. The Beach Boys pushed across their lone run in the seventh, but the Iguanas answered with single runs in the seventh, eighth, and ninth to take control.
+
+## A Hard-Luck Start for Jarnagin
+
+Chase Jarnagin gave Boca exactly what it needed, throwing five scoreless innings with three strikeouts and allowing just one hit. Matthew Pagan followed with two more strong frames. The trouble came late — Mason Adkins surrendered the decisive runs and took the loss, dropping to 0-3.
+
+## Quiet Day at the Plate
+
+There just wasn't much offense to be found. West Palm Beach starter Dylan Schwam and the Iguanas bullpen combined to strike out 11 Beach Boys. Rene Ramirez and Yhirian Marrero each collected a hit, but Boca couldn't string anything together. Dillon Moquin provided a spark on the bases with three stolen bases, but the team left too many chances on the table.
+
+## Up Next
+
+The Beach Boys get a couple days before returning to host the Boca Raton Blazers. A short, quiet night at the plate — the kind every team has — and a chance to bounce right back.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Escobar, Michael",  ab: 4, h: 1, hr: 0, r: 1, rbi: 0, bb: 0, so: 0 },
+        { name: "McClarnon, Roby",   ab: 4, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Ramirez, Rene",     ab: 4, h: 1, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Lo Nero, Gio",      ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 1 },
+        { name: "Marrero, Yhirian",  ab: 2, h: 1, hr: 0, r: 0, rbi: 0, bb: 1, so: 0 },
+        { name: "Little, Tyler",     ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 1 },
+        { name: "Pupo, Valentino",   ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+        { name: "Moquin, Dillon",    ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+        { name: "Badillo, Nicholas", ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Yngber, Jesse",     ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+      ],
+      pitching: [
+        { name: "Jarnagin, Chase",   ip: "5.0", h: 1, r: 0, er: 0, bb: 1, so: 3, note: null },
+        { name: "Pagan, Matthew",    ip: "2.0", h: 3, r: 1, er: 1, bb: 1, so: 3, note: null },
+        { name: "Adkins, Mason",     ip: "1.1", h: 3, r: 2, er: 2, bb: 2, so: 2, note: "L" },
+        { name: "Giardina, Silvio",  ip: "0.2", h: 0, r: 0, er: 0, bb: 0, so: 1, note: null },
+      ],
+    },
+  },
+  {
+    id: "june-16-blazers-recap",
+    slug: "june-16-blazers-recap",
+    title: "Bartlett Brilliant in 1-0 Combined One-Hitter Over Blazers",
+    date: "2026-06-16",
+    gameId: "game-013",
+    excerpt: "Sean Bartlett struck out nine and Boca's staff held the Blazers to one hit in a 1-0 pitching masterpiece.",
+    content: `This was baseball at its purest — two pitching staffs trading zeros until one team finally blinked. The Boca Raton Beach Boys won that battle, edging the Boca Raton Blazers 1-0 on Tuesday at Lynn University behind a combined one-hitter.
+
+Neither team could find the plate for six innings. The Beach Boys finally broke through in the seventh, manufacturing the game's only run on a Tyler Little RBI to win it.
+
+## Sean Bartlett Sets the Tone
+
+Sean Bartlett was masterful. The right-hander threw five innings of one-hit ball, striking out nine and walking three while keeping the Blazers off the scoreboard entirely. It was the best start of his season and the backbone of the win.
+
+Carter Gschwind bridged the gap with a scoreless inning, and Yhirian Marrero slammed the door with a perfect seventh — three up, three down, all on strikeouts of the side. The trio combined to allow just two hits all afternoon and struck out 14 Blazers.
+
+## One Run Was Enough
+
+The offense was nearly as quiet — Boca managed just one hit of its own — but in a game like this, one run was a fortune. Andrew Tabares reached base twice and kept his torrid average above .500, and Tyler Little came through with the lone RBI that decided it. Sometimes winning baseball is exactly this simple: dominate on the mound and find one run.
+
+## Up Next
+
+Boca hits the road Thursday for a doubleheader at the Boynton Beach Buccaneers. The pitching has been the story, and on this night it was downright dominant.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Ramirez, Rene",     ab: 1, h: 0, hr: 0, r: 1, rbi: 0, bb: 1, so: 1 },
+        { name: "Arroyo, Joel",      ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+        { name: "Tabares, Andrew",   ab: 2, h: 1, hr: 0, r: 0, rbi: 0, bb: 1, so: 0 },
+        { name: "Little, Tyler",     ab: 2, h: 0, hr: 0, r: 0, rbi: 1, bb: 1, so: 1 },
+        { name: "McClarnon, Roby",   ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+        { name: "Diaz, Frank",       ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+        { name: "Giardina, Silvio",  ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Moquin, Dillon",    ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Cope, Joshua",      ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+        { name: "Pupo, Valentino",   ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+      ],
+      pitching: [
+        { name: "Bartlett, Sean",    ip: "5.0", h: 1, r: 0, er: 0, bb: 3, so: 9, note: "W" },
+        { name: "Gschwind, Carter",  ip: "1.0", h: 1, r: 0, er: 0, bb: 1, so: 2, note: null },
+        { name: "Marrero, Yhirian",  ip: "1.0", h: 0, r: 0, er: 0, bb: 1, so: 3, note: "S" },
+      ],
+    },
+  },
+  {
+    id: "june-18-buccaneers-game1-recap",
+    slug: "june-18-buccaneers-game1-recap",
+    title: "Beach Boys Shut Out 6-0 in Doubleheader Opener",
+    date: "2026-06-18",
+    gameId: "game-016",
+    excerpt: "Joseph Mascaro IV one-hit Boca over five innings as the Buccaneers took game one of Thursday's doubleheader.",
+    content: `The bats that have carried the Beach Boys all season went silent at Harry Gribbon Park. Boynton Beach starter Joseph Mascaro IV was overpowering, and the Buccaneers cruised to a 6-0 win in the opener of Thursday's doubleheader.
+
+Boynton Beach struck early with a run in the first and three more in the second, and that was more than enough on a night when Boca couldn't generate any offense.
+
+## A One-Hit Night
+
+Mascaro IV set the tone, throwing five innings of one-hit, shutout ball with seven strikeouts. The Buccaneers bullpen finished the job, and Boca managed just a single hit — a Joel Arroyo single — all game while striking out 11 times. It was the quietest offensive night of the Beach Boys' season.
+
+## Allison Battles
+
+Andrew Allison took the loss but kept Boca within range early, going four innings. The defense didn't help — two errors led to unearned damage — and the deficit proved too much for a stalled lineup to overcome.
+
+## Up Next
+
+No time to dwell on it — game two of the doubleheader started right after. The Beach Boys needed to flush the opener and reset for the nightcap.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Marrero, Yhirian",  ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 2 },
+        { name: "Tabares, Andrew",   ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+        { name: "Arroyo, Joel",      ab: 3, h: 1, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Page, Austin",      ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "McClarnon, Roby",   ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+        { name: "Orozco, Aaron",     ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+        { name: "Badillo, Nicholas", ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+        { name: "Giardina, Silvio",  ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+        { name: "Escobar, Michael",  ab: 1, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 0 },
+        { name: "Yngber, Jesse",     ab: 1, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 1 },
+      ],
+      pitching: [
+        { name: "Allison, Andrew",      ip: "4.0", h: 5, r: 4, er: 4, bb: 3, so: 1, note: "L" },
+        { name: "Echeverria, Eduardo",  ip: "1.0", h: 2, r: 2, er: 2, bb: 0, so: 1, note: null },
+        { name: "Beck, Ben",            ip: "1.0", h: 0, r: 0, er: 0, bb: 2, so: 1, note: null },
+      ],
+    },
+  },
+  {
+    id: "june-18-buccaneers-game2-recap",
+    slug: "june-18-buccaneers-game2-recap",
+    title: "Comeback Falls Short in 12-9 Nightcap Loss to Buccaneers",
+    date: "2026-06-18",
+    gameId: "game-016b",
+    excerpt: "Boca scored nine but a rough second inning and five errors doomed the Beach Boys in a 12-9 loss to complete the sweep.",
+    content: `The bats woke up in game two — but the defense and pitching couldn't keep pace. The Boynton Beach Buccaneers completed a doubleheader sweep with a 12-9 win, surviving a late Beach Boys rally on a sloppy, high-scoring night at Harry Gribbon Park.
+
+Boca actually jumped out to a 4-0 lead in the first, but the Buccaneers answered with a six-run second inning and never trailed again. The Beach Boys made it interesting with a four-run sixth, but the early hole was too deep.
+
+## Offense Shows Up, Defense Doesn't
+
+The Beach Boys put up nine runs and got contributions up and down the order — Silvio Giardina and Valentino Pupo each drove in two, and Andrew Tabares stayed red-hot at the plate. But five Boca errors gave the Buccaneers extra outs and extra bases all night, and Boynton Beach made them pay.
+
+## A Rough Start on the Mound
+
+Aiden Rivero couldn't find it, allowing eight runs (though several unearned) in the first inning of work before exiting, and he took the loss. Andrew Elkins provided some stability with 2.2 innings and three strikeouts, and Connor Stefan tossed a clean frame, but the early damage was done.
+
+## Up Next
+
+A sweep stings, but the offense flashing nine runs is something to build on. Boca returns home Saturday to host the Wellington Gators Blue, looking to clean up the defense and get back in the win column.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Ramirez, Rene",     ab: 4, h: 1, hr: 0, r: 1, rbi: 0, bb: 0, so: 1 },
+        { name: "Arroyo, Joel",      ab: 3, h: 0, hr: 0, r: 1, rbi: 0, bb: 1, so: 1 },
+        { name: "Page, Austin",      ab: 3, h: 1, hr: 0, r: 2, rbi: 0, bb: 1, so: 0 },
+        { name: "Little, Tyler",     ab: 1, h: 0, hr: 0, r: 1, rbi: 1, bb: 1, so: 1 },
+        { name: "Diaz, Frank",       ab: 3, h: 1, hr: 0, r: 1, rbi: 1, bb: 1, so: 1 },
+        { name: "Tabares, Andrew",   ab: 2, h: 1, hr: 0, r: 1, rbi: 1, bb: 0, so: 0 },
+        { name: "McClarnon, Roby",   ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Giardina, Silvio",  ab: 1, h: 1, hr: 0, r: 1, rbi: 2, bb: 0, so: 0 },
+        { name: "Cope, Joshua",      ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+        { name: "Pupo, Valentino",   ab: 3, h: 0, hr: 0, r: 0, rbi: 2, bb: 0, so: 1 },
+        { name: "Orozco, Aaron",     ab: 3, h: 1, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+      ],
+      pitching: [
+        { name: "Rivero, Aiden",     ip: "1.0", h: 6, r: 8, er: 8, bb: 3, so: 0, note: "L" },
+        { name: "Harvey, Anthony",   ip: "1.1", h: 2, r: 3, er: 3, bb: 3, so: 1, note: null },
+        { name: "Elkins, Andrew",    ip: "2.2", h: 1, r: 1, er: 1, bb: 2, so: 3, note: null },
+        { name: "Stefan, Connor",    ip: "1.0", h: 0, r: 0, er: 0, bb: 0, so: 1, note: null },
+      ],
+    },
+  },
+  {
+    id: "june-20-gators-blue-recap",
+    slug: "june-20-gators-blue-recap",
+    title: "Beach Boys Run-Rule Gators Blue 10-0",
+    date: "2026-06-20",
+    gameId: "game-018",
+    excerpt: "Chase Jarnagin and the staff combined on a two-hit shutout while Boca's bats erupted for a 10-0 run-rule win.",
+    content: `This was the bounce-back the Beach Boys were looking for. Two days after a doubleheader sweep, Boca dominated the Wellington Gators Blue from the first pitch, rolling to a 10-0 run-rule win in six innings on Saturday at Lynn University.
+
+The Beach Boys scored in every inning but two, opening with three in the first and never letting Wellington breathe. By the time the sixth arrived, the run differential ended it early.
+
+## A Two-Hit Shutout
+
+Chase Jarnagin was excellent again, throwing four scoreless innings with five strikeouts and allowing just two hits. Mason Adkins and Grayson Smith finished the shutout, and the staff held the Gators to two hits with no walks the entire game — a crisp, efficient effort all around.
+
+## Power and Patience
+
+The offense did its part in a hurry. Silvio Giardina launched a home run, Roby McClarnon drove in three, and Joel Arroyo reached base in all four trips with two hits, two RBIs, and three runs scored. Boca also drew eight walks and was hit by five pitches, turning Wellington's wildness into runs. Logan Morris chipped in two hits and two RBIs off the bench.
+
+## Up Next
+
+Boca gets a couple days before a home doubleheader against the Coconut Creek X-Team. A complete, dominant win — exactly the response a team wants after a tough stretch.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Marrero, Yhirian",  ab: 2, h: 1, hr: 0, r: 2, rbi: 0, bb: 0, so: 1 },
+        { name: "Ramirez, Rene",     ab: 1, h: 0, hr: 0, r: 2, rbi: 0, bb: 3, so: 0 },
+        { name: "Arroyo, Joel",      ab: 2, h: 2, hr: 0, r: 3, rbi: 2, bb: 0, so: 0 },
+        { name: "Page, Austin",      ab: 3, h: 0, hr: 0, r: 0, rbi: 1, bb: 1, so: 0 },
+        { name: "Morris, Logan",     ab: 3, h: 2, hr: 0, r: 1, rbi: 2, bb: 1, so: 1 },
+        { name: "Swasey, Jovan",     ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 1 },
+        { name: "McClarnon, Roby",   ab: 2, h: 1, hr: 0, r: 0, rbi: 3, bb: 0, so: 0 },
+        { name: "Cope, Joshua",      ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 2 },
+        { name: "Giardina, Silvio",  ab: 3, h: 1, hr: 1, r: 1, rbi: 1, bb: 0, so: 0 },
+        { name: "Lo Nero, Gio",      ab: 1, h: 1, hr: 0, r: 1, rbi: 0, bb: 2, so: 0 },
+      ],
+      pitching: [
+        { name: "Jarnagin, Chase",   ip: "4.0", h: 2, r: 0, er: 0, bb: 0, so: 5, note: "W" },
+        { name: "Adkins, Mason",     ip: "1.0", h: 0, r: 0, er: 0, bb: 0, so: 0, note: null },
+        { name: "Smith, Grayson",    ip: "1.0", h: 0, r: 0, er: 0, bb: 0, so: 1, note: null },
+      ],
+    },
+  },
+  {
+    id: "june-23-xteam-game1-recap",
+    slug: "june-23-xteam-game1-recap",
+    title: "X-Team Pulls Away Late in 8-3 Win Over Beach Boys",
+    date: "2026-06-23",
+    gameId: "game-019",
+    excerpt: "A five-run fourth inning sank Boca as the Coconut Creek X-Team took game one of Tuesday's doubleheader 8-3.",
+    content: `The Coconut Creek X-Team broke a scoreless tie with one big inning and never looked back, beating the Boca Raton Beach Boys 8-3 in the opener of Tuesday's doubleheader at Lynn University.
+
+For three innings it was a tight, scoreless game. Then the fourth happened — Coconut Creek sent ten men to the plate and pushed across five runs, breaking the game open. The X-Team added three more in the seventh to put it away.
+
+## Gschwind Runs Into Trouble
+
+Carter Gschwind was charged with the loss after the X-Team's big fourth inning, with the rally fueled by a string of extra-base hits. Andrew Allison had been sharp through the first three innings, but once Coconut Creek got going the Beach Boys couldn't stem the tide.
+
+## Late Life
+
+Boca avoided the shutout with a three-run seventh, getting RBIs from Tyler Little and Gio Lo Nero. Andrew Tabares kept hitting with a single, and Austin Page doubled, but six hits weren't enough to climb out of the hole. The Beach Boys would have to shake it off quickly — game two was minutes away.
+
+## Up Next
+
+Game two of the doubleheader followed immediately, with Boca looking to split the day against the same X-Team club.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Marrero, Yhirian",  ab: 4, h: 1, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+        { name: "Ramirez, Rene",     ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Arroyo, Joel",      ab: 1, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 0 },
+        { name: "Tabares, Andrew",   ab: 3, h: 1, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Diaz, Frank",       ab: 2, h: 1, hr: 0, r: 1, rbi: 0, bb: 1, so: 1 },
+        { name: "Page, Austin",      ab: 3, h: 1, hr: 0, r: 1, rbi: 0, bb: 0, so: 0 },
+        { name: "Little, Tyler",     ab: 3, h: 1, hr: 0, r: 0, rbi: 2, bb: 0, so: 1 },
+        { name: "Lo Nero, Gio",      ab: 3, h: 0, hr: 0, r: 0, rbi: 1, bb: 0, so: 0 },
+        { name: "Pupo, Valentino",   ab: 3, h: 1, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+      ],
+      pitching: [
+        { name: "Allison, Andrew",      ip: "3.0", h: 1, r: 0, er: 0, bb: 0, so: 1, note: null },
+        { name: "Gschwind, Carter",     ip: "1.0", h: 5, r: 5, er: 5, bb: 1, so: 2, note: "L" },
+        { name: "Echeverria, Eduardo",  ip: "3.0", h: 1, r: 3, er: 3, bb: 2, so: 3, note: null },
+      ],
+    },
+  },
+  {
+    id: "june-23-xteam-game2-recap",
+    slug: "june-23-xteam-game2-recap",
+    title: "Beach Boys Split Doubleheader with 8-5 Win Over X-Team",
+    date: "2026-06-23",
+    gameId: "game-020",
+    excerpt: "Michael Escobar drove in three and Anthony Harvey shut the door as Boca salvaged a split with an 8-5 nightcap win.",
+    content: `The Boca Raton Beach Boys answered an opening loss the right way. Behind a five-run fourth inning and a lockdown bullpen, Boca beat the Coconut Creek X-Team 8-5 in the nightcap to earn a doubleheader split on Tuesday at Lynn University.
+
+The Beach Boys built a 3-0 lead in the second and blew the game open with five in the fourth, weathering a four-run X-Team rally in the fifth to hold on.
+
+## Escobar and Yngber Provide the Pop
+
+Michael Escobar was the difference, driving in three runs from the bottom of the order. Jesse Yngber added a two-RBI knock, and Roby McClarnon went 2-for-4 with a double and an RBI. The Beach Boys only managed four hits but made them count — and drew six walks to keep the pressure on.
+
+## Harvey Slams the Door
+
+Aiden Rivero gave way after a shaky stretch, but Anthony Harvey was the story in relief. He threw 2.2 hitless innings with five strikeouts to earn the win and preserve the split. After the X-Team clawed within striking distance in the fifth, Harvey made sure they didn't get any closer.
+
+## Up Next
+
+A split with a quality X-Team club keeps Boca rolling. The Beach Boys hit the road Thursday to face the Delray Beach Lightning.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Cope, Joshua",      ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+        { name: "Moquin, Dillon",    ab: 3, h: 0, hr: 0, r: 0, rbi: 1, bb: 0, so: 0 },
+        { name: "Arroyo, Joel",      ab: 1, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "McClarnon, Roby",   ab: 4, h: 2, hr: 0, r: 0, rbi: 1, bb: 0, so: 0 },
+        { name: "Cope, Holden",      ab: 2, h: 0, hr: 0, r: 1, rbi: 1, bb: 2, so: 0 },
+        { name: "Orozco, Aaron",     ab: 2, h: 0, hr: 0, r: 2, rbi: 0, bb: 2, so: 1 },
+        { name: "Badillo, Nicholas", ab: 2, h: 0, hr: 0, r: 2, rbi: 0, bb: 0, so: 0 },
+        { name: "Giardina, Silvio",  ab: 2, h: 0, hr: 0, r: 1, rbi: 0, bb: 1, so: 0 },
+        { name: "Escobar, Michael",  ab: 3, h: 1, hr: 0, r: 1, rbi: 3, bb: 0, so: 0 },
+        { name: "Yngber, Jesse",     ab: 2, h: 1, hr: 0, r: 1, rbi: 2, bb: 0, so: 1 },
+      ],
+      pitching: [
+        { name: "Rivero, Aiden",     ip: "4.1", h: 8, r: 5, er: 5, bb: 1, so: 2, note: null },
+        { name: "Harvey, Anthony",   ip: "2.2", h: 0, r: 0, er: 0, bb: 1, so: 5, note: "W" },
+      ],
+    },
+  },
+  {
+    id: "june-25-lightning-recap",
+    slug: "june-25-lightning-recap",
+    title: "Lightning Strike Early in 12-5 Win Over Beach Boys",
+    date: "2026-06-25",
+    gameId: "game-021",
+    excerpt: "Andrew Tabares homered and drove in five, but Delray Beach jumped out early and cruised to a 12-5 win.",
+    content: `The Delray Beach Lightning landed the first punch and never let go. A four-run first inning set the tone, and Delray rolled to a 12-5 win over the Boca Raton Beach Boys on Thursday at Little Fenway.
+
+The Lightning chipped away every inning, building a double-digit lead before Boca could mount any real response. The Beach Boys showed some fight with a two-run fourth and a three-run sixth, but the early deficit was simply too much.
+
+## Tabares Keeps Mashing
+
+Andrew Tabares provided the lone bright spot, and a big one — a three-run home run as part of a five-RBI night that kept his average among the league's best. Rene Ramirez also stayed hot, going 3-for-4 with a double. But outside of those two, Boca's offense couldn't sustain anything.
+
+## Control Issues on the Mound
+
+It was a rough night for the pitching staff, which issued 13 walks as a group. Andrew Elkins couldn't escape the first and took the loss, and the free passes kept Delray's lineup turning over all night. Connor Stefan provided two scoreless innings of relief to close it out, a small positive on a tough evening.
+
+## Up Next
+
+Boca closes out a busy stretch Friday at the Palm Beach Xtreme. A night to forget, but the Beach Boys have shown all season they can bounce back quickly.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Marrero, Yhirian",  ab: 4, h: 1, hr: 0, r: 1, rbi: 0, bb: 0, so: 2 },
+        { name: "Ramirez, Rene",     ab: 4, h: 3, hr: 0, r: 2, rbi: 0, bb: 0, so: 0 },
+        { name: "Arroyo, Joel",      ab: 2, h: 0, hr: 0, r: 1, rbi: 0, bb: 1, so: 2 },
+        { name: "Tabares, Andrew",   ab: 4, h: 2, hr: 1, r: 1, rbi: 5, bb: 0, so: 1 },
+        { name: "Diaz, Frank",       ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 1 },
+        { name: "Page, Austin",      ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 0 },
+        { name: "Little, Tyler",     ab: 4, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+        { name: "McClarnon, Roby",   ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 1 },
+        { name: "Cope, Joshua",      ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Giardina, Silvio",  ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+      ],
+      pitching: [
+        { name: "Elkins, Andrew",    ip: "0.1", h: 0, r: 4, er: 3, bb: 4, so: 0, note: "L" },
+        { name: "Pagan, Matthew",    ip: "2.0", h: 2, r: 2, er: 2, bb: 2, so: 2, note: null },
+        { name: "Beck, Ben",         ip: "1.2", h: 1, r: 1, er: 1, bb: 0, so: 2, note: null },
+        { name: "Sosa, Luis",        ip: "2.0", h: 3, r: 5, er: 5, bb: 4, so: 4, note: null },
+        { name: "Stefan, Connor",    ip: "2.0", h: 0, r: 0, er: 0, bb: 3, so: 3, note: null },
+      ],
+    },
+  },
+  {
+    id: "june-26-xtreme-recap",
+    slug: "june-26-xtreme-recap",
+    title: "Beach Boys Fall 7-3 to Xtreme After Early Lead",
+    date: "2026-06-26",
+    gameId: "game-022",
+    excerpt: "Jovan Swasey homered and went 3-for-3, but Palm Beach Xtreme rallied from an early deficit to beat Boca 7-3.",
+    content: `The Boca Raton Beach Boys grabbed an early lead but couldn't hold it, falling 7-3 to the Palm Beach Xtreme on Friday at Spanish River. Boca led 2-0 and 3-1 in the middle innings before the Xtreme took over with a steady stream of runs from the fifth inning on.
+
+The Beach Boys out-hit the Xtreme 9 to 7, but Palm Beach drew 12 walks and made the most of every opportunity, scoring in four straight innings to pull away.
+
+## Swasey's Big Night
+
+Jovan Swasey was the standout, going a perfect 3-for-3 with a home run, a double, and two RBIs — a breakout performance in a tough team result. Andrew Tabares stayed locked in with a solo homer of his own, his second of the week. Rene Ramirez and Roby McClarnon each added multi-hit nights, but the Beach Boys couldn't push across the runs to keep pace.
+
+## Walks Prove Costly
+
+The story of the night was free passes. Boca's staff issued 12 walks, and the Xtreme turned that traffic into runs. Carter Gschwind and Nick Fraginals were solid early — Fraginals struck out four over two innings — but the later innings unraveled, and Mason Adkins was tagged with the loss. Even Yhirian Marrero took the mound for an inning as Boca worked through its bullpen.
+
+## Up Next
+
+The Beach Boys stay at Spanish River for a rematch with the Xtreme on Saturday. Boca will look to clean up the walks and even the score.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Giardina, Silvio",  ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 0 },
+        { name: "Marrero, Yhirian",  ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 2 },
+        { name: "Ramirez, Rene",     ab: 3, h: 1, hr: 0, r: 0, rbi: 0, bb: 1, so: 1 },
+        { name: "Tabares, Andrew",   ab: 4, h: 1, hr: 1, r: 1, rbi: 1, bb: 0, so: 1 },
+        { name: "Arroyo, Joel",      ab: 4, h: 1, hr: 0, r: 1, rbi: 0, bb: 0, so: 0 },
+        { name: "Swasey, Jovan",     ab: 3, h: 3, hr: 1, r: 1, rbi: 2, bb: 1, so: 0 },
+        { name: "McClarnon, Roby",   ab: 4, h: 2, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+        { name: "Moquin, Dillon",    ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 2, so: 1 },
+        { name: "Cope, Holden",      ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Page, Austin",      ab: 1, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Pupo, Valentino",   ab: 2, h: 1, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+      ],
+      pitching: [
+        { name: "Gschwind, Carter",  ip: "3.0", h: 1, r: 0, er: 0, bb: 2, so: 2, note: null },
+        { name: "Fraginals, Nick",   ip: "2.0", h: 2, r: 1, er: 1, bb: 1, so: 4, note: null },
+        { name: "Adkins, Mason",     ip: "0.1", h: 3, r: 2, er: 2, bb: 2, so: 0, note: "L" },
+        { name: "Bartlett, Sean",    ip: "1.2", h: 0, r: 3, er: 1, bb: 5, so: 4, note: null },
+        { name: "Marrero, Yhirian",  ip: "1.0", h: 1, r: 1, er: 1, bb: 2, so: 3, note: null },
+      ],
+    },
+  },
 ]
