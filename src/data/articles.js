@@ -797,4 +797,48 @@ The Beach Boys stay at Spanish River for a rematch with the Xtreme on Saturday. 
       ],
     },
   },
+  {
+    id: "june-27-xtreme-recap",
+    slug: "june-27-xtreme-recap",
+    title: "One Bad Inning Sinks Beach Boys in 5-3 Loss to Xtreme",
+    date: "2026-06-27",
+    gameId: "game-023",
+    excerpt: "Chase Jarnagin spun five scoreless and Silvio Giardina homered, but a five-run Xtreme sixth decided a 5-3 Boca loss.",
+    content: `For five and a half innings, the Boca Raton Beach Boys looked like the better team. Then one inning flipped everything. The Palm Beach Xtreme erupted for five runs in the bottom of the sixth and held on for a 5-3 win on Saturday at Spanish River, dropping Boca to .500 on the season.
+
+The Beach Boys led 1-0 and were threatening to pull away when the wheels came off in the sixth. Up to that point, Chase Jarnagin had been outstanding.
+
+## Jarnagin Deserved Better
+
+Jarnagin was excellent, throwing five scoreless innings on three hits with five strikeouts and just one walk. He left with a lead and lowered his ERA to a sparkling 1.06. But the bullpen couldn't hold it — Anthony Harvey was charged with four runs without recording an out in the sixth and took the loss, and by the time the dust settled the Xtreme had a 5-3 edge they wouldn't relinquish.
+
+## Giardina's Big Swing
+
+Silvio Giardina provided the highlight, launching a two-run home run in the sixth — his second of the year — to give Boca a 3-0 lead before the Xtreme answered. He drove in both of his runs with that one swing. Rene Ramirez (2-for-4 with a double) and Andrew Tabares (double) kept their averages among the team's best, but Boca managed just four hits and struck out 11 times against Xtreme starter Chase Wildroudt and the bullpen.
+
+## Up Next
+
+The loss evens the Beach Boys at 9-9. Boca will look to get back over .500 as the schedule rolls on — the pitching has been there, and on this night it was one inning away from another win.`,
+    imageUrl: null,
+    boxScore: {
+      batting: [
+        { name: "Giardina, Silvio",  ab: 4, h: 1, hr: 1, r: 1, rbi: 2, bb: 0, so: 1 },
+        { name: "Ramirez, Rene",     ab: 4, h: 1, hr: 0, r: 0, rbi: 0, bb: 0, so: 3 },
+        { name: "Swasey, Jovan",     ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 1 },
+        { name: "Tabares, Andrew",   ab: 4, h: 1, hr: 0, r: 1, rbi: 0, bb: 0, so: 3 },
+        { name: "Page, Austin",      ab: 4, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+        { name: "Arroyo, Joel",      ab: 2, h: 0, hr: 0, r: 0, rbi: 1, bb: 1, so: 1 },
+        { name: "McClarnon, Roby",   ab: 4, h: 1, hr: 0, r: 0, rbi: 0, bb: 0, so: 0 },
+        { name: "Marrero, Yhirian",  ab: 3, h: 0, hr: 0, r: 0, rbi: 0, bb: 0, so: 1 },
+        { name: "Moquin, Dillon",    ab: 2, h: 0, hr: 0, r: 1, rbi: 0, bb: 0, so: 0 },
+        { name: "Orozco, Aaron",     ab: 2, h: 0, hr: 0, r: 0, rbi: 0, bb: 1, so: 1 },
+      ],
+      pitching: [
+        { name: "Jarnagin, Chase",     ip: "5.0", h: 3, r: 0, er: 0, bb: 1, so: 5, note: null },
+        { name: "Harvey, Anthony",     ip: "0.0", h: 1, r: 4, er: 4, bb: 2, so: 0, note: "L" },
+        { name: "Beck, Ben",           ip: "1.0", h: 1, r: 1, er: 1, bb: 1, so: 1, note: null },
+        { name: "Echeverria, Eduardo", ip: "2.0", h: 1, r: 0, er: 0, bb: 0, so: 2, note: null },
+      ],
+    },
+  },
 ]

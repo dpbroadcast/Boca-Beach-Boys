@@ -11,13 +11,17 @@ export default function Schedule() {
   const [filter, setFilter] = useState('all') // 'all' | 'home' | 'away' | 'broadcasting'
 
   const filtered = useMemo(() => {
-    return games.filter((g) => {
-      if (filter === 'home') return g.isHome
-      if (filter === 'away') return !g.isHome
-      if (filter === 'pxp') return g.broadcasterRole === 'PXP'
-      if (filter === 'color') return g.broadcasterRole === 'Color'
-      return true
-    })
+    return games
+      .filter((g) => {
+        if (filter === 'home') return g.isHome
+        if (filter === 'away') return !g.isHome
+        if (filter === 'pxp') return g.broadcasterRole === 'PXP'
+        if (filter === 'color') return g.broadcasterRole === 'Color'
+        return true
+      })
+      // Always display in chronological order (stable sort keeps
+      // same-day doubleheaders in their listed order)
+      .sort((a, b) => a.date.localeCompare(b.date))
   }, [filter])
 
   // Group by month
@@ -38,7 +42,10 @@ export default function Schedule() {
     const losses = completed.filter((g) => g.result?.startsWith('L')).length
     const winPct = completed.length > 0 ? (wins / completed.length) : null
     const streak = (() => {
-      const done = [...games].filter((g) => g.status === 'completed').reverse()
+      const done = [...games]
+        .filter((g) => g.status === 'completed')
+        .sort((a, b) => a.date.localeCompare(b.date))
+        .reverse()
       if (!done.length) return null
       const type = done[0].result?.startsWith('W') ? 'W' : 'L'
       let count = 0

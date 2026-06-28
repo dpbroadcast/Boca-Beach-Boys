@@ -11,7 +11,7 @@
 
 export const teamStatsUpdated = "2026-06-26"
 
-export const teamRecord = { w: 9, l: 8, pct: ".529" }
+export const teamRecord = { w: 9, l: 9, pct: ".500" }
 
 export const battingStats = [
   { name: "Andrew Tabares",   pa: 45, ab: 39, r: 9,  h: 17, double: 2, triple: 1, hr: 2, rbi: 13, bb: 3, so: 9,  avg: ".436", obp: ".511", slg: ".692", ops: "1.203" },
